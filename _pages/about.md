@@ -1,4 +1,3 @@
-![](/images/demo/demo-landscape.jpg)
 ---
 title: About Me
 subtitle: Insert description about myself and my professional life.
