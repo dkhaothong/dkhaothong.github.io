@@ -65,7 +65,7 @@ color_settings:
   overlay_accent_color: '#2A2F36'
 
 font_settings:
-  font_embed: ' <link href="https://fonts.googleapis.com/css?family=Barlow|Raleway" rel="stylesheet"> '
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Barlow|Raleway" rel="stylesheet">'
  title_font: '"Barlow", sans-serif'
 body_font: '"Raleway", sans-serif'
   regular_weight: 400
