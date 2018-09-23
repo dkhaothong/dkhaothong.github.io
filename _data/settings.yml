@@ -65,9 +65,9 @@ color_settings:
   overlay_accent_color: '#2A2F36'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
-  title_font: '"Muli", sans-serif'
-  body_font: '"Muli", sans-serif'
+  font_embed: ' <link href="https://fonts.googleapis.com/css?family=Barlow|Raleway" rel="stylesheet"> '
+ title_font: '"Barlow", sans-serif'
+body_font: '"Raleway", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
