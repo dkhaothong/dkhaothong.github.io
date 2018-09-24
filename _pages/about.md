@@ -26,7 +26,6 @@ We've packed Duet full of powerful features to help showcase your work:
 * Works with GitHub Pages
 * Updated and supported by the developers
 
-
 <div style="text-align:center;">
     <a href="mailto:dkhaothong@ucla.edu" class="button button--large">Contact Me</a>
 </div>
