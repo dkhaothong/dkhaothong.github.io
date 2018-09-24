@@ -31,5 +31,3 @@ We've packed Duet full of powerful features to help showcase your work:
 <div style="text-align:center;">
     <a href="mailto:dkhaothong@ucla.edu" class="button button--large">Contact Me</a>
 </div>
-
----
