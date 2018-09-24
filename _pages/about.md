@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Insert description about myself and my professional life.
-description: Duet is a beautiful Jekyll portfolio theme.
+description: The about me section is a professional bio.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
