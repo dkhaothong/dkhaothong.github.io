@@ -25,6 +25,7 @@ grid_settings:
   grid_spacing: 10
 
 social_settings:
+  email_url: 'mailto:dkhaothong@ucla.edu'
   facebook_url: ''
   twitter_url: ''
   instagram_url: ''
