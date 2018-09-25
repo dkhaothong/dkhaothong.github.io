@@ -7,16 +7,18 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ![](/images/placeholder.jpg)
 
-Hi, I'm Derek. I'm a Bay Area native with a background in digital media and cognitive science. 
-I explore the fields of design, technology, and behavioral science to apply interdisciplinary perspectives to create multi-faceted products. 
+Hi, I'm Derek. My last name means 'Golden Mountain' in Thai.
+I'm a Bay Area native with a background in digital media and cognitive science. 
+I explore the fields of design, technology, and behavioral science to apply interdisciplinary perspectives to create multi-faceted experiences. 
 
 
-In the past, I've worked at x, y, and z. 
+In the past, I've worked on things at [UCLA's Computational Lab](http://cvl.psych.ucla.edu), [Medallurgy UX](http://medallurgy.com), [UCLA Radio](https://uclaradio.com), and [Inneract Project](https://inneractproject.org). 
 
-My last name means 'golden mountain' in Thai. Outside of design, I love to and cook up tasty meals in the kitchen with friends & family.
+Outside of design, you can find me trying to rap over J Dilla beats, cooking up tasty meals in the kitchen with others, and hiking in the Bay Area.
 
 Thanks for stopping by.
 
+[I'm an inline-style link](https://www.google.com)
 ---
 
 <div style="text-align:center;">
