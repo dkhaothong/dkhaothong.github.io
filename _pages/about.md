@@ -12,13 +12,13 @@ I'm a Bay Area native with a background in digital media and cognitive science.
 I explore the fields of design, technology, and behavioral science to apply interdisciplinary perspectives to create multi-faceted experiences. 
 
 
-In the past, I've worked on things at [UCLA's Computational Lab](http://cvl.psych.ucla.edu), [Medallurgy UX](http://medallurgy.com), [UCLA Radio](https://uclaradio.com), and [Inneract Project](https://inneractproject.org). 
+In the past, I've worked for [UCLA's Computational Lab](http://cvl.psych.ucla.edu), [Medallurgy UX](http://medallurgy.com), [UCLA Radio](https://uclaradio.com); and [Inneract Project](https://inneractproject.org). 
+
 
 Outside of design, you can find me trying to rap over J Dilla beats, cooking up tasty meals in the kitchen with others, and hiking in the Bay Area.
 
 Thanks for stopping by.
 
-[I'm an inline-style link](https://www.google.com)
 ---
 
 <div style="text-align:center;">
