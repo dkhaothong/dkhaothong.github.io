@@ -29,8 +29,8 @@ Thanks for stopping by.
 
 I'd love to talk about anything - from design, user research, or the history of electronic dance music. 
 
-Shoot me an e-mail and we can work something out.
 
+Shoot me an e-mail and we can work something out.
 
 
 <div style="text-align:center;">
