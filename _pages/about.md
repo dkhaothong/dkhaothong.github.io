@@ -7,6 +7,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ![](/images/placeholder.jpg)
 
+---
+
 Hi, I'm Derek. My last name means 'Golden Mountain' in Thai.
 I'm a Bay Area native with a background in digital media and cognitive science. 
 I explore the fields of design, technology, and behavioral science to apply interdisciplinary perspectives to create multi-faceted experiences. 
