@@ -30,7 +30,7 @@ Outside of design, you can find me trying to rap over J Dilla beats, cooking up 
 I'd love to talk about anything - from design, user research, or the history of electronic dance music. 
 
 
-Shoot me an e-mail and we can work something out.
+Shoot me an e-mail and we can work something out.  
 
 
 
