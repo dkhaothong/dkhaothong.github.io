@@ -1,6 +1,6 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Miscellaneous'
+subtitle: 'Web Design | Visual Design'
 date: 2018-06-30 00:00:00
 featured_image: '/images/demo/demo-portrait.jpg'
 ---
