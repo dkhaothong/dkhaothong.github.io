@@ -13,11 +13,11 @@ featured_image: /images/demo/demo-landscape.jpg
 
 — Noam Chomsky
 
-## Who are you?
+## Let's Get Personal.
 
-Hi, I'm Derek. My last name means 'Golden Mountain' in Thai.
-I'm a Bay Area native with a background in digital media and studied cognitive science at University of California, Los Angeles.
-I explore the fields of design, technology, and behavioral science to apply interdisciplinary perspectives to create multi-faceted experiences. I'm inspired by x.
+Hi, I'm Derek Khaothong. My last name means 'Golden Mountain' in Thai.
+I was born and raised in the Bay Area, where I currently reside today. I have a background in digital media and studied cognitive science at University of California, Los Angeles.
+I explore the fields of design, technology, and behavioral science to apply interdisciplinary perspectives to create multi-faceted experiences. I am inspired by the 
 
 
 In the past, I've worked for [UCLA's Computational Lab](http://cvl.psych.ucla.edu), [Medallurgy UX](http://medallurgy.com), [UCLA Radio](https://uclaradio.com); and [Inneract Project](https://inneractproject.org). 
