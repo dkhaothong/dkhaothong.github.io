@@ -17,7 +17,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 Hi, I'm Derek Khaothong. My last name means 'Golden Mountain' in Thai.
 I was born and raised in the Bay Area, where I currently reside today. I have a background in digital media and studied cognitive science at University of California, Los Angeles.
-I explore the fields of design, technology, and behavioral science to apply interdisciplinary perspectives to create multi-faceted experiences. I am inspired by the 
+I explore the fields of design, technology, and behavioral science to apply interdisciplinary perspectives to create multi-faceted experiences. As a designer, I love to think about solutions to major or minor inconveniences facing the world. I take design inspiration from things you see everyday like the color palettes of different sneakers, album artwork on glossy vinyl covers, and the organization of grocery stores.
 
 
 In the past, I've worked for [UCLA's Computational Lab](http://cvl.psych.ucla.edu), [Medallurgy UX](http://medallurgy.com), [UCLA Radio](https://uclaradio.com); and [Inneract Project](https://inneractproject.org). 
