@@ -18,7 +18,7 @@ I was born and raised in the Bay Area, where I currently reside today. I have a 
 I explore the fields of design, technology, and behavioral science to apply interdisciplinary perspectives to create multi-faceted experiences. As a designer, I love to think about solutions to major or minor inconveniences facing the world. I take design inspiration from things you see everyday like the color palettes of different sneakers, album artwork on glossy vinyl covers, and the organization of grocery stores.
 
 
-In the past, I've worked for [UCLA's Computational Lab](http://cvl.psych.ucla.edu), [Medallurgy UX](http://medallurgy.com), [UCLA Radio](https://uclaradio.com); and [Inneract Project](https://inneractproject.org). 
+In the past, I've worked for [UCLA's Computational Lab](http://cvl.psych.ucla.edu), [Medallurgy UX](http://medallurgy.com), [UCLA Radio](https://uclaradio.com), and [Inneract Project](https://inneractproject.org). 
 
 
 Outside of design, you can find me noodling on my guitar, cooking up tasty meals in the kitchen with others, and hiking in the Bay Area.
