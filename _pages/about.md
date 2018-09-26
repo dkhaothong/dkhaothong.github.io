@@ -9,7 +9,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ---
 
-> “Optimism is a strategy for making a better future. Because unless you believe that the future can be better, you are unlikely to step up and take responsibility for making it so.”        — Noam Chomsky
+> **_“Optimism is a strategy for making a better future. Because unless you believe that the future can be better, you are unlikely to step up and take responsibility for making it so.”_**        — Noam Chomsky
 
 ## Let's Get Personal.
 
