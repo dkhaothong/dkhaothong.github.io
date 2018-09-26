@@ -24,6 +24,7 @@ Outside of design, you can find me trying to rap over J Dilla beats, cooking up 
 
 
 ---
+
 ## Let's Chat.
 
 I'd love to talk about anything - from design, user research, or the history of electronic dance music. 
@@ -35,3 +36,5 @@ Shoot me an e-mail and we can work something out.
 <div style="text-align:center;">
     <a href="mailto:dkhaothong@ucla.edu" class="button button--large">Contact Me</a>
 </div>
+
+---
