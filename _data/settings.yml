@@ -4,6 +4,7 @@ basic_settings:
 
 header_settings:
   logo_image: /images/favicon.png
+  logo_height: 100
   logo_width: 100
 
 menu_settings:
