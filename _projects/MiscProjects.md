@@ -38,7 +38,8 @@ Khaosan Thai
 #### OVERVIEW
 
 
-A generic summary description. 
+Khaosan Thai is a restaurant recently opened in San Jose, CA. I was tasked with creating a clean, minimal website. The website was built without a template using Wix’s drag and drop ability (similar to Sketch, but more limited). 
+
 
 
 ***
