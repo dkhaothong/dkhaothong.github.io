@@ -10,6 +10,10 @@ featured_image: '/images/demo/demo-portrait.jpg'
 
 # Medallurgy UX Wireframe
 
+
+![](/images/demo/demo-landscape.jpg)
+
+
 This is a generic description.
 
 
