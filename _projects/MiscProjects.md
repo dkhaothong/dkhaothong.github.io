@@ -5,8 +5,11 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/demo/demo-portrait.jpg'
 ---
 
+<div class="gallery" data-columns="4">
+	<img src="/images/Medallurgy1.jpg">
+	<img src="/images/">
+</div>
 
-![](/images/Medallurgy1.jpg)
 
 [Medallurgy UX](http://medallurgy.com/) 
 ----
