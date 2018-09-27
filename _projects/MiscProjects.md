@@ -14,7 +14,7 @@ Medallurgy UX
 #### OVERVIEW
 
 
-A generic summary description. 
+I led and developed a desktop wireframe for a user research agency website. The design was developed through a competitive analysis of other agency websites and an analysis of the existing website. There was a strong developmental focus on the information architecture and content to improve credibility for prospective clients that would visit the website. The wireframe was built on Sketch and iterated through remote meetings.  
 
 
 ***
