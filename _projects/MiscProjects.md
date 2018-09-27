@@ -6,7 +6,7 @@ featured_image: '/images/demo/demo-portrait.jpg'
 ---
 
 
-![](/images/Medallurgy1)
+![](/images/Medallurgy1.jpg)
 
 [Medallurgy UX](http://medallurgy.com/) 
 ----
