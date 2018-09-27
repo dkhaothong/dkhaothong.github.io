@@ -26,7 +26,7 @@ Masa Ramen
 #### OVERVIEW
 
 
-A generic summary description. 
+Masa Ramen is a restaurant located in San Jose, CA. My client wanted to create a user-friendly website where users could view the menu online. The website was built without a template using Wix’s drag and drop ability (similar to Sketch, but more limited). 
 
 
 ***
