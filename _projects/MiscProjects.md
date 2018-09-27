@@ -40,6 +40,8 @@ Masa Ramen is a restaurant located in San Jose, CA. My client wanted to create a
 ***
 
 
+![](/images/Khao1.png)
+
 [Khaosan Thai](https://www.khaosanthaisj.com/)
 ----
 
