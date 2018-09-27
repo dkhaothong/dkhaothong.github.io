@@ -17,7 +17,7 @@ Medallurgy UX Wireframe
 A generic summary description. 
 
 
---
+***
 
 
 Masa Ramen
@@ -29,7 +29,7 @@ Masa Ramen
 A generic summary description. 
 
 
---
+***
 
 
 Khaosan Thai
@@ -41,7 +41,7 @@ Khaosan Thai
 A generic summary description. 
 
 
---
+***
 
 
 Api's Floral
