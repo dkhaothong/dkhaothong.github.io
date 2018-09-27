@@ -54,6 +54,7 @@ Khaosan Thai is a restaurant recently opened in San Jose, CA. I was tasked with 
 
 ***
 
+![](/images/Api1.png)
 
 [Api's Floral](https://www.apisfloral.com/)
 ----
