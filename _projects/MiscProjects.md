@@ -8,7 +8,7 @@ featured_image: '/images/demo/demo-portrait.jpg'
 ![](/images/demo/demo-landscape.jpg)
 
 
-# Medallurgy UX Wireframe
+### Medallurgy UX Wireframe
 
 
 ![](/images/demo/demo-landscape.jpg)
@@ -17,17 +17,17 @@ featured_image: '/images/demo/demo-portrait.jpg'
 This is a generic description.
 
 
-# Masa Ramen
+### Masa Ramen
 
 This is a generic description.
 
 
-# Khaosan Thai
+### Khaosan Thai
 
 This is a generic description.
 
 
-# Api's Floral
+### Api's Floral
 
 This is a generic description.
 
