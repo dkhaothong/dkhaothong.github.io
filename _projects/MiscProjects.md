@@ -8,7 +8,8 @@ featured_image: '/images/demo/demo-portrait.jpg'
 ![](/images/demo/demo-landscape.jpg)
 
 
-## Medallurgy UX Wireframe
+Alt-H2 Medallurgy UX Wireframe
+------
 
 
 ### OVERVIEW
@@ -16,7 +17,6 @@ featured_image: '/images/demo/demo-portrait.jpg'
 
 A generic summary description. 
 
----
 
 ## Masa Ramen
 
