@@ -8,9 +8,8 @@ featured_image: '/images/demo/demo-portrait.jpg'
 ![](/images/demo/demo-landscape.jpg)
 
 
-Alt - Medallurgy UX Wireframe
-------
-
+Medallurgy UX Wireframe
+----
 
 ### OVERVIEW
 
