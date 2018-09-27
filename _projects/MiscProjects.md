@@ -9,7 +9,7 @@ featured_image: '/images/demo/demo-portrait.jpg'
 
 # Masa Ramen
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+This is a generic description.
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
