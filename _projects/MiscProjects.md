@@ -26,7 +26,7 @@ I led and developed a desktop wireframe for a user research agency website. The 
 ***
 
 
-![](/images/Masa1.jpg)
+![](/images/Masa1.png)
 
 [Masa Ramen](https://www.masanoodlebar.com/)
 ----
