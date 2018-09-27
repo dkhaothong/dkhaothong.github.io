@@ -8,7 +8,7 @@ featured_image: '/images/demo/demo-portrait.jpg'
 ![](/images/demo/demo-landscape.jpg)
 
 
-Medallurgy UX 
+[Medallurgy UX] (http://medallurgy.com/) 
 ----
 
 #### OVERVIEW
@@ -20,7 +20,7 @@ I led and developed a desktop wireframe for a user research agency website. The 
 ***
 
 
-Masa Ramen
+[Masa Ramen] (https://www.masanoodlebar.com/)
 ----
 
 #### OVERVIEW
@@ -32,7 +32,7 @@ Masa Ramen is a restaurant located in San Jose, CA. My client wanted to create a
 ***
 
 
-Khaosan Thai
+[Khaosan Thai] (https://www.khaosanthaisj.com/)
 ----
 
 #### OVERVIEW
@@ -45,7 +45,7 @@ Khaosan Thai is a restaurant recently opened in San Jose, CA. I was tasked with 
 ***
 
 
-Api's Floral
+[Api's Floral] (https://www.apisfloral.com/)
 ----
 
 #### OVERVIEW
