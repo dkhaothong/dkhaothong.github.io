@@ -5,7 +5,6 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/demo/demo-portrait.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
 
 ![](/images/Medallurgy1)
 
