@@ -7,33 +7,27 @@ featured_image: '/images/demo/demo-portrait.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
+
+# Medallurgy UX Wireframe
+
+This is a generic description.
+
+
 # Masa Ramen
 
 This is a generic description.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+# Khaosan Thai
 
-You can create lists:
+This is a generic description.
 
-* Simple bulleted lists
-* Like this one
-* Are cool
 
-And:
+# Api's Floral
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+This is a generic description.
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-You can throw in some horizontal rules too:
-
----
 
 ### Image galleries
 
@@ -74,18 +68,4 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
-### What about videos?
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
