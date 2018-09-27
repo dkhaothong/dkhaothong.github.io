@@ -51,4 +51,4 @@ Khaosan Thai is a restaurant recently opened in San Jose, CA. I was tasked with 
 #### OVERVIEW
 
 
-A generic summary description. 
+Api’s Floral is a floral shop located in San Jose, CA. My client wanted a landing page as the website was being developed and a prototype a developer could work with. The developmental process was heavily focused on aligning the visual branding with my client’s vision and making the website scannable. The landing page was built using Wix and the prototype was developed on Sketch. 
