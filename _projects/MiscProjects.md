@@ -7,10 +7,10 @@ featured_image: '/images/demo/demo-portrait.jpg'
 
 <div class="gallery" data-columns="2">
 	<img src="/images/Medallurgy1.jpg">
-	<img src="/images/Medallurgy2.jpg">
 	<img src="/images/Medallurgy3.jpg">
-	<img src="/images/Medallurgy4.jpg">
 	<img src="/images/Medallurgy5.jpg">
+	<img src="/images/Medallurgy2.jpg">
+	<img src="/images/Medallurgy4.jpg">
 </div>
 
 
