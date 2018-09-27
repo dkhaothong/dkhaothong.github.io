@@ -11,7 +11,7 @@ featured_image: '/images/demo/demo-portrait.jpg'
 Medallurgy UX Wireframe
 ----
 
-### OVERVIEW
+### O V E R V I E W
 
 
 A generic summary description. 
