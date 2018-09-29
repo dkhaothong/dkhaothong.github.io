@@ -7,7 +7,7 @@ featured_image: '/images/demo/demo-landscape.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Demo content
+## OVERVIEW
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
