@@ -8,11 +8,11 @@ featured_image: '/images/demo/demo-landscape.jpg'
 ![](/images/demo/demo-landscape.jpg)
 
 
-## Project Title
-* Project: Desktop Forum Design
-* Role: User Research
-* Client: Medallurgy UX
-* Tools: InVision, GoToMeeting, Excel.
+# A community forum to bring people together.
+* **Medium:** Desktop
+* **Role:** User Research
+* **Client:** Medallurgy UX
+* **Tools:** InVision, GoToMeeting, Excel.
 
 
 ## OVERVIEW
