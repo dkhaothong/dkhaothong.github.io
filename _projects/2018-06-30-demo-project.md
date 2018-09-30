@@ -14,26 +14,25 @@ featured_image: '/images/demo/demo-landscape.jpg'
 * **Client:** Medallurgy UX
 * **Tools:** InVision, GoToMeeting, Excel.
 
+---
+
 
 ## OVERVIEW
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Insert Generic Sentence.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+#### The Challenge:
 
-You can create lists:
+Insert Generic Sentence.
 
-* Simple bulleted lists
-* Like this one
-* Are cool
 
-And:
+#### The Solution:
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+Insert generic sentence.
+
+
+---
 
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
