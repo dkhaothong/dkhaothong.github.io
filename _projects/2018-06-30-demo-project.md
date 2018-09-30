@@ -4,14 +4,16 @@ subtitle: 'UX Design | Product Design'
 date: 2018-06-30 00:00:00
 featured_image: '/images/demo/demo-landscape.jpg'
 ---
+
+![](/images/demo/demo-landscape.jpg)
+
+
 ## Project Title
 * Project: Desktop Forum Design
 * Role: User Research
 * Client: Medallurgy UX
 * Tools: InVision, GoToMeeting, Excel.
 
-
-![](/images/demo/demo-landscape.jpg)
 
 ## OVERVIEW
 
