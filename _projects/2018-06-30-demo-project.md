@@ -51,25 +51,27 @@ We made personas of the type of users that would visit so we could accurately re
 
 #### Understanding the Flow:
 
-Soon after, we recieved the prototype of the community support forum via InVision. We learned what features we had to test on the prototype and developed the user flow for these different features.
+Soon after, we recieved the prototype of the community support forum via InVision. We learned what features we had to test on the prototype and developed the user flow for these different features. Because we did not play a role in the design of the prototype, it was very important for us to be knowledgeable of the flow before we conducted any tests.
 
 
 We needed to test and evaluate:
 
-1. The registration process.
-2. The sign-in and log-in process.
-3. Finding a relavent forum.
-4. Posting a question.
-5. Posting an image.
-6. Replying to an existing discussion.
-7. Translating a post.
-8. Private messaging another user.
+**1. The registration process.**
+**2. The sign-in and log-in process.**
+**3. Finding a relavent forum.**
+**4. Posting a question.**
+**5. Posting an image.**
+**6. Replying to an existing discussion.**
+**7. Translating a post.**
+**8. Private messaging another user.**
 
+
+We used an Excel spreadsheet to list all the various user flows for the different features. With the user flows completed and a greater understanding of the prototype, we developed tasks for the different features we needed to evaluate. The scenario-based tasks had to allign with the goals of the task (e.g., registering for the forum) and follow a discussion guide we would use for usability testing.
 
 
 #### Preparing the Lab:
 
-Insert generic sentence. 
+Before we could conduct any test sessions, we started by creating a discussion guide. This was the most important deliverable we had to develop because it would help us conduct the usability test more effectively and provide key insights for our stakeholders. 
 
 
 ---
