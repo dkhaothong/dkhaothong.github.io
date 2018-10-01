@@ -19,18 +19,18 @@ featured_image: '/images/demo/demo-landscape.jpg'
 
 ## OVERVIEW
 
-Due to a nondisclosure agreement, identifying characteristics and some parameters of the project have been left vague.
+Due to a nondisclosure agreement, identifying characteristics and some parameters of the project have been left out.
 
 
-I worked on a project where we tested a prototype of a redesigned community support forum. The client's primary goal was to update an outdated community support forum and test the user experience of specific forum features. They were also interested in the information architecture of the new forum.  We worked with the client and delivered an insightful report with deliverables. 
+I worked on a project where we tested a prototype of a redesigned community support forum. The client's primary goal was to update an outdated community support forum and test the user experience of specific forum features. They were also interested in how users navigated the information architecture of the new forum.  With a small team of four other researchers, we worked with the client and delivered an insightful report with deliverables. My role involved coordinating respondents, conducting usability test sessions, and analyzing the data into actionable insights.
 
 #### The Challenge:
 
-Community forums are used to discover solutions and to allow open discussion with other users. In the tech community, these forums are very insightful for developers, designers, and IT professionals. Our client had recently redesigned the UI of their forum and wanted to test it out. 
+Community forums are used to discover solutions and to allow open discussion of various topics with other users. In the tech community, these forums are very insightful for developers, designers, and IT professionals. Our challenge, was that a client had recently redesigned the user interface (UI) of their forum and wanted us to test it on prospective users.
 
 #### The Solution:
 
-We were given specific constraints to work with such as the features to test, what main insights were expected, and an average timeframe of the project. We started wih discovering who would use the community support forum website.
+We were given specific constraints to work with such as what features to test, what main insights were expected, and an average timeframe of the project. As we waited for the prototype to be finalized by our client, we began to solve the problem by discovering what type of users would use the community support forum website.
 
 
 ---
