@@ -30,7 +30,7 @@ Community forums are used to discover solutions and to allow open discussion of 
 
 #### The Solution:
 
-We were given specific constraints to work with such as what features to test, what main insights were expected, and an average timeframe of the project. As we waited for the prototype to be finalized by our client, we began to solve the problem by discovering what type of users would use the community support forum website.
+We were given specific constraints to work with such as what features to test, what main insights were expected, and an average timeframe of the project. As we waited for the prototype to be finalized by our client, we began to solve the problem by discovering the type of users that would use the community support forum website.
 
 
 ---
@@ -41,7 +41,7 @@ We were given specific constraints to work with such as what features to test, w
 
 #### Understanding the Users:
 
-We made personas to determine the type of users that would visit so we could accurately recruit the relavent respondents. We divided the types of users into three specific users. We recruited FPGA developers, software developers, and technical support seekers. Using a list of good-standing recruited respondents and UserInterviews.com, we coordinated with our respondents for the test. We recruited subjects remotely from across the United States.
+We made personas of the type of users that would visit so we could accurately recruit the relavent respondents. We based our personas based off data from our stakeholder interviews and an analysis of the different forum topics. We divided the types of users into three specific users. We recruited FPGA developers, software developers, and technical support seekers. Using a list of good-standing recruited respondents and UserInterviews.com, we recruited our respondents for the test. Respondents were recruited remotely from across the United States.
 
 
 #### Exploring the Competition 
