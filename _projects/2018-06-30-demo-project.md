@@ -16,13 +16,7 @@ featured_image: '/images/demo/demo-landscape.jpg'
 
 ---
 
-Science 37 is a scientific research services and technology company. Its primary focus is to pave the way for breakthroughs in medicine and new treatments by allowing patients to participate in clinical research trials directly from their homes.
 
-The Challenge
-Despite the benefits of Electronic Health Records (EHRs) in the medical industry, there are still significant problems with this technology. There continues to be miscommunication and data breaches which creates vulnerability in patient records. Science 37 seeks to restructure EHRs by developing a secure and robust health record system using blockchain technology.  
-
-The Solution
-To allow for patients, not healthcare providers, to have the ability to securely store and control their healthcare records. Creating a mobile application to store health records by utilizing blockchain technology will allow for medical records to be more secure, increase data access, and improve patient doctor communicatio
 ## OVERVIEW
 
 Due to a nondisclosure agreement, identifying characteristics and some parameters of the project have been left vague.
@@ -36,7 +30,7 @@ Community forums are used to discover solutions and to allow open discussion wit
 
 #### The Solution:
 
-We were given specific constraints to work with such as the features to test, what main insights were expected, and an average timeframe of the project. We started wih wondering who would use the community support forum website.
+We were given specific constraints to work with such as the features to test, what main insights were expected, and an average timeframe of the project. We started wih discovering who would use the community support forum website.
 
 
 ---
@@ -44,12 +38,10 @@ We were given specific constraints to work with such as the features to test, wh
 
 ## DESIGN
 
-Insert generic sentence.
-
 
 #### Understanding the Users:
 
-Insert generic sentence.
+We made personas to determine the type of users that would visit so we could accurately recruit the relavent respondents. We divided the types of users into three specific users. We recruited FPGA developers, software developers, and technical support seekers. Using a list of good-standing recruited respondents and UserInterviews.com, we coordinated with our respondents for the test. We recruited subjects remotely from across the United States.
 
 
 #### Exploring the Competition 
@@ -68,3 +60,19 @@ Insert generic sentence.
 
 
 ---
+
+
+## INSIGHTS
+
+#### What we Discovered:
+
+
+#### What Clients Learned:
+
+
+---
+
+
+## CONCLUSION
+
+#### What I Learned:
