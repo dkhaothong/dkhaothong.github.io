@@ -57,12 +57,19 @@ Soon after, we recieved the prototype of the community support forum via InVisio
 We needed to test and evaluate:
 
 **1. The registration process.**
+
 **2. The sign-in and log-in process.**
+
 **3. Finding a relavent forum.**
+
 **4. Posting a question.**
+
 **5. Posting an image.**
+
 **6. Replying to an existing discussion.**
+
 **7. Translating a post.**
+
 **8. Private messaging another user.**
 
 
@@ -71,7 +78,7 @@ We used an Excel spreadsheet to list all the various user flows for the differen
 
 #### Preparing the Lab:
 
-Before we could conduct any test sessions, we started by creating a discussion guide. This was the most important deliverable we had to develop because it would help us conduct the usability test more effectively and provide key insights for our stakeholders. The discussion guide was essentially a list of behavioral questions that we could probe respondents with. We designed our discussion guide to have  
+Before we could conduct any test sessions, we started by creating a discussion guide. This was the most important deliverable we had to develop because it would help us conduct the usability test more effectively, provide key insights for our stakeholders depending on the questions we asked, and give us a variety of data (e.g., what users said versus what they actually did). The discussion guide was essentially a list of behavioral questions that we could probe respondents with. We designed our discussion guide to have  
 
 
 ---
