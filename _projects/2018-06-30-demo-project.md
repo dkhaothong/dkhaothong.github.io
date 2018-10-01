@@ -78,8 +78,10 @@ We used an Excel spreadsheet to list all the various user flows for the differen
 
 #### Preparing the Lab:
 
-Before we could conduct any test sessions, we started by creating a discussion guide. This was the most important deliverable we had to develop because it would help us conduct the usability test more effectively, provide key insights for our stakeholders depending on the questions we asked, and give us a variety of data (e.g., what users said versus what they actually did). The discussion guide was essentially a list of behavioral questions that we could probe respondents with. We designed our discussion guide to have  
+Before we could conduct any test sessions, we started by creating a discussion guide. This was the most important deliverable we had to develop because it would help us conduct the usability test more effectively, provide key insights for our stakeholders depending on the questions we asked, and give us a variety of data (e.g., what users said versus what they actually did). The discussion guide was essentially a list of behavioral questions that we could probe respondents with. We designed our discussion guide to have open-ended questions and likert-scale based questions. It was important to keep the questions open so users would do the majority of the talking.  
 
+
+With the discussion guide completed, we practiced a few moderated pilot sessions to get familiar with the timing of the discussion guide and work out any possible kinks. 
 
 ---
 
