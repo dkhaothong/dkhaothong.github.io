@@ -19,7 +19,7 @@ featured_image: '/images/demo/demo-landscape.jpg'
 
 ## OVERVIEW
 
-Due to a nondisclosure agreement, identifying characteristics and some parameters of the project have been left out.
+*Due to a nondisclosure agreement, identifying characteristics and some parameters of the project have been left out.*
 
 
 I worked on a project where we tested a prototype of a redesigned community support forum. The client's primary goal was to update an outdated community support forum and test the user experience of specific forum features. They were also interested in how users navigated the information architecture of the new forum.  With a small team of four other researchers, we worked with the client and delivered an insightful report with deliverables. My role involved coordinating respondents, conducting usability test sessions, and analyzing the data into actionable insights.
@@ -78,7 +78,10 @@ We used an Excel spreadsheet to list all the various user flows for the differen
 
 #### Preparing the Lab:
 
-Before we could conduct any test sessions, we started by creating a discussion guide. This was the most important deliverable we had to develop because it would help us conduct the usability test more effectively, provide key insights for our stakeholders depending on the questions we asked, and give us a variety of data (e.g., what users said versus what they actually did). The discussion guide was essentially a list of behavioral questions that we could probe respondents with. We designed our discussion guide to have open-ended questions and likert-scale based questions. It was important to keep the questions open so users would do the majority of the talking.  
+Before we could conduct any test sessions, we started by creating a discussion guide. This was the most important deliverable we had to develop because it would help us conduct the usability test more effectively, provide key insights for our stakeholders depending on the questions we asked, and give us a variety of data (e.g., what users said versus what they actually did). 
+
+
+The discussion guide was essentially a list of behavioral questions that we could probe respondents with. We designed our discussion guide to have open-ended questions and likert-scale based questions. It was important to keep the questions open so users would do the majority of the talking.  
 
 
 With the discussion guide completed, we practiced a few moderated pilot sessions to get familiar with the timing of the discussion guide and work out any possible kinks. 
