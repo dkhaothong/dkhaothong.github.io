@@ -57,19 +57,12 @@ Soon after, we recieved the prototype of the community support forum via InVisio
 **We needed to test and evaluate:**
 
 * The registration process.
-
 * The sign-in and log-in process.
-
 * Finding a relavent forum.
-
 * Posting a question
-
 * Posting an image.
-
 * Replying to an existing discussion.
-
 * Translating a post.
-
 * Private messaging another user.
 
 
@@ -94,6 +87,7 @@ With the discussion guide completed, we practiced a few moderated pilot sessions
 #### What we Discovered:
 
 
+On testing day, we all interviewed five respondents.
 #### What Clients Learned:
 
 
