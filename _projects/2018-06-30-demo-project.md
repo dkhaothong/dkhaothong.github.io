@@ -8,8 +8,8 @@ featured_image: '/images/demo/demo-landscape.jpg'
 ![](/images/demo/demo-landscape.jpg)
 
 
-# A community forum to bring people together.
-* **Medium:** Desktop
+# Testing a redesign of an outdated community support forum.
+* **For:** Desktop
 * **Role:** User Research
 * **Client:** Medallurgy UX
 * **Tools:** InVision, GoToMeeting, Excel.
@@ -19,7 +19,7 @@ featured_image: '/images/demo/demo-landscape.jpg'
 
 ## OVERVIEW
 
-Insert Generic Sentence.
+
 
 
 #### The Challenge:
