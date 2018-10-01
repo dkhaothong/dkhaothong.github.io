@@ -26,7 +26,7 @@ I worked on a project where we tested a prototype of a redesigned community supp
 
 #### The Challenge:
 
-Community forums are used to discover solutions and to allow open discussion of various topics with other users. In the tech community, these forums are very insightful for developers, designers, and IT professionals. Our challenge, was that a client had recently redesigned the user interface (UI) of their forum and wanted us to test it on prospective users.
+Community forums are used to discover solutions and to allow open discussion of various topics with other users. In the tech community, these forums are very insightful for developers, designers, and IT professionals. Our challenge, was that a client had recently redesigned the user interface (UI) of their forum and wanted us to test features on prospective users.
 
 #### The Solution:
 
@@ -44,14 +44,27 @@ We were given specific constraints to work with such as what features to test, w
 We made personas of the type of users that would visit so we could accurately recruit relavent respondents. We based our personas based off data from our stakeholder interviews and an analysis of the different forum topics. We divided the types of users into three specific cohorts. We recruited FPGA developers, software developers, and technical support seekers. We recruited five users for each cohort via UserInterviews. The users were screened to get a diverse sample of respondents with different ranges of professional experience and age.
 
 
-#### Exploring the Competition 
+#### Exploring the Competition: 
 
-Insert generic sentence. 
+ We had an open discussion regarding what everyone thought "good UX" was for community support forums. I described how a great community support forum had a clear ranking system, chunked different information into relavent topics, and kept the visual design as minimal as possible. We analyzed the design of popular community support forums (Reddit, Stack Overflow) so we could build our expertise and provide accurate reccommendations for our client. 
 
 
 #### Understanding the Flow:
 
-Insert generic sentence. 
+Soon after, we recieved the prototype of the community support forum via InVision. We learned what features we had to test on the prototype and developed the user flow for these different features.
+
+
+We needed to test and evaluate:
+
+1. The registration process.
+2. The sign-in and log-in process.
+3. Finding a relavent forum.
+4. Posting a question.
+5. Posting an image.
+6. Replying to an existing discussion.
+7. Translating a post.
+8. Private messaging another user.
+
 
 
 #### Preparing the Lab:
