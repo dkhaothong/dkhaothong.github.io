@@ -1,6 +1,6 @@
 ---
-title: 'Demo Project'
-subtitle: 'UX Design | Product Design'
+title: 'Forum Project'
+subtitle: 'User Research'
 date: 2018-06-30 00:00:00
 featured_image: '/images/demo/demo-landscape.jpg'
 ---
@@ -55,7 +55,6 @@ Soon after, we recieved the prototype of the community support forum via InVisio
 
 
 **We needed to test and evaluate:**
-
 
 1. The registration process.
 
