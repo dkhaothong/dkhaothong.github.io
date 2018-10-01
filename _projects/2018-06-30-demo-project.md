@@ -56,21 +56,21 @@ Soon after, we recieved the prototype of the community support forum via InVisio
 
 **We needed to test and evaluate:**
 
-1. The registration process.
+* The registration process.
 
-2. The sign-in and log-in process.
+* The sign-in and log-in process.
 
-3. Finding a relavent forum.
+* Finding a relavent forum.
 
-4. Posting a question
+* Posting a question
 
-5. Posting an image.
+* Posting an image.
 
-6. Replying to an existing discussion.
+* Replying to an existing discussion.
 
-7. Translating a post.
+* Translating a post.
 
-8. Private messaging another user.
+* Private messaging another user.
 
 
 We used an Excel spreadsheet to list all the various user flows for the different features. With the user flows completed and a greater understanding of the prototype, we developed tasks for the different features we needed to evaluate. The scenario-based tasks had to allign with the goals of the task (e.g., registering for the forum) and follow a discussion guide we would use for usability testing.
