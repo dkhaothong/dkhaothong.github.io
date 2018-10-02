@@ -16,6 +16,11 @@ featured_image: '/images/Project2.png'
 
 [Medallurgy UX](http://medallurgy.com/) 
 ----
+ 
+* **For:** Desktop
+* **Role:** Wireframing | Visual Design
+* **Client:** Medallurgy UX
+* **Tool:** Sketch
 
 #### OVERVIEW
 
