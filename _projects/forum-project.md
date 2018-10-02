@@ -2,10 +2,10 @@
 title: 'Forum Project'
 subtitle: 'User Research'
 date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-landscape.jpg'
+featured_image: '/images/Project1.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/Project1.jpg)
 
 
 # Testing a redesign of an outdated community support forum.
