@@ -38,6 +38,9 @@ Ti Amo has been in the works as early as September 2014 by Phoenix and has been 
 **T:** When we write songs, the first few melodies that come out with chords come out from mumble and nonsense. When we blended all of these different languages, I saw everyone’s eyes lit with fear and excitement. There is this leap of faith and bonding quality when you write it together. Some of our lyrics in this album refer to obscure gelatos,—we’re always trying to tell a story.
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TwjMiWgCi8E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 #### D: Yeah, I’ve noticed this central theme of classic Italy in Ti Amo. Specifically, the theme of “television” seems to appear in J-boy, what’s the story behind that?
 **T:** There was a lot of inspiration that came from Italian and some German television rom our childhood memories. Now, you can simply watch it all on YouTube [laughs]. There’s a goldmine of references, which are far enough in our memory to create something contemporary about it. We were not trying to be authentic, rather slightly off.
 
