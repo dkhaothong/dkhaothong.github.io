@@ -1,6 +1,6 @@
 ---
 title: 'Interview with Thomas Mars from Phoenix'
-date: 2018-06-30 00:00:00
+date: 2018-09-27
 featured_image: '/images/Phoenix2.jpg'
 ---
 
@@ -8,9 +8,9 @@ featured_image: '/images/Phoenix2.jpg'
 
 
 
-## Demo content
+#### Set to debut on June 9th, 2017,
 
-Set to debut on June 9th, 2017, Ti Amo has been in the works as early as September 2014 by Phoenix and has been described as an album about simple pure emotions: love, desire, lust, and innocence. From my first listen, I thought Ti Amo was a very picturesque album, it creates an intimate setting of a fantasized version of Italy, a paradise consisting of never-ending Roman summers, antique marble statues, and fearless desire. Beginning June 2nd, Phoenix will launch their world tour, playing alongside indie poster-boy acts like Mac Demarco, The Lemon Twigs, and Whitney. I sat down and had a chat with Thomas Mars—lead vocalist of the band to talk about what Phoenix has been up to during their four-year hiatus.
+Ti Amo has been in the works as early as September 2014 by Phoenix and has been described as an album about simple pure emotions: love, desire, lust, and innocence. From my first listen, I thought Ti Amo was a very picturesque album, it creates an intimate setting of a fantasized version of Italy, a paradise consisting of never-ending Roman summers, antique marble statues, and fearless desire. Beginning June 2nd, Phoenix will launch their world tour, playing alongside indie poster-boy acts like Mac Demarco, The Lemon Twigs, and Whitney. I sat down and had a chat with Thomas Mars—lead vocalist of the band to talk about what Phoenix has been up to during their four-year hiatus.
 
 
 You can create lists:
