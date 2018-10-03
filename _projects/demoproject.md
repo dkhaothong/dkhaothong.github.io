@@ -2,7 +2,7 @@
 title: 'Demo Project'
 subtitle: 'User Research'
 date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-portrait.jpg'
+featured_image: '/images/Worldcat1.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
