@@ -41,7 +41,7 @@ We were given specific constraints to work with such as what features to test, w
 
 #### Understanding the Users:
 
-We made personas of the type of users that would visit so we could accurately recruit relavent respondents. We based our personas based off data from our stakeholder interviews and an analysis of the different forum topics. We divided the types of users into three specific cohorts. We recruited FPGA developers, software developers, and technical support seekers. We recruited five users for each cohort via UserInterviews. The users were screened to get a diverse sample of respondents with different ranges of professional experience and age.
+We made personas of the type of users that would visit so we could accurately recruit relavent respondents. We based our personas based off data from our stakeholder interviews and an analysis of the different forum topics. We divided the types of users into three specific cohorts. We recruited FPGA developers, software developers, and technical support seekers. We recruited five users for each cohort via UserInterviews. The users were screened to get a diverse sample of respondents with different ranges of professional experience and age. 
 
 
 #### Exploring the Competition: 
@@ -55,6 +55,7 @@ Soon after, we recieved the prototype of the community support forum via InVisio
 
 
 **We needed to test and evaluate:**
+
 
 * The registration process.
 * The sign-in and log-in process.
@@ -71,13 +72,13 @@ We used an Excel spreadsheet to list all the various user flows for the differen
 
 #### Preparing the Lab:
 
-Before we could conduct any test sessions, we started by creating a discussion guide. This was the most important deliverable we had to develop because it would help us conduct the usability test more effectively, provide key insights for our stakeholders depending on the questions we asked, and give us a variety of data (e.g., what users said versus what they actually did). 
+Before we could conduct any test sessions, we started by creating a discussion guide. This was the most important deliverable we had to develop because it would help us conduct the usability test more effectively, provide key insights for our stakeholders depending on the questions we asked, and give us variety in data (e.g., what users said versus what they actually did). 
 
 
-The discussion guide was essentially a list of behavioral questions that we could probe respondents with. We designed our discussion guide to have open-ended questions and likert-scale based questions. It was important to keep the questions open so users would do the majority of the talking.  
+The discussion guide was essentially a list of behavioral questions that we could probe respondents with. The goal of the discussion guide was to create a direct conversation that could facilitate this conversation. We designed our discussion guide to have open-ended questions and likert-scale based questions after completing moderated tasks. It was important to keep the questions open-ended so users would do the majority of the talking.
 
 
-With the discussion guide completed, we practiced a few moderated pilot sessions to get familiar with the timing of the discussion guide and work out any possible kinks. 
+With the discussion guide completed, we practiced a few moderated pilot sessions to get familiar with the timing of the discussion guide and work out any possible technical kinks. 
 
 ---
 
@@ -87,7 +88,10 @@ With the discussion guide completed, we practiced a few moderated pilot sessions
 #### What we Discovered:
 
 
-On testing day, we all interviewed five respondents.
+On testing day, we all tested five respondents from the three different cohorts (FPGA, Software, Tech Support). Some sessions were moderated independently, while some sessions had a notetaker. All sessions were recorded using a remote meeting software called GoToMeeting.
+
+
+Because this was a remote study, there were technical errors on testing day. 
 
 
 #### What Clients Learned:
