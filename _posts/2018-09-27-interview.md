@@ -14,73 +14,41 @@ Ti Amo has been in the works as early as September 2014 by Phoenix and has been 
 #### Hey Thomas! How’s it going? 
 T: Good, it’s nice to chat with you.
 
-You can create lists:
+
+#### So, what’s it like to be back after a four-year hiatus? The release of new music was quite sudden, seemingly almost out of nowhere.
+T: Yeah, it really was out of nowhere. We stayed in the same room to write music for about 3 years, it’s really strange because we have the most boring, most unexciting life for three years and then for a year or half, we get to travel and live this exciting life playing music for people. It was like Groundhog day—we basically stayed in the same room just writing music for three years pretty much.
 
 
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
+#### Sounds like school. Living this unexciting life for the majority of your school days and then being free in the summer.
+T: It’s similar to college, I’ve always been jealous of college in the US as a highlight of your life, where as in France it’s different and right from the beginning I couldn’t see myself committing to that. I’ve always envied the US for that culture.
 
 
+#### Yeah, I guess college is really seen as this integral time of experimental development and pressure to have the best four years of their life.
+T: Oh yeah, a lot of anticipation and pressure.
 
+
+#### By the way, congrats on Sofia’s new movie, The Beguiled. Phoenix wrote the score for the movie. Are there any differences the songwriting process when you’re writing a score for a movie versus an album?
+T: It’s easier. There are limits, and we have frames of reference when we write scores. As a director, Sofia guides us in the right direction, while when it comes to our own music, we are the captain of our own ships and it can be daunting with money and time. When we first started out, renting out a studio was so expensive and we had such a limited amount of instruments and time to play. Now, there exists all of these different possibilities, which can be overwhelming. When we have a frame it allows us to be faster and more productive. We have visual cues and a preexisting environment that lets writing come easier for us.
+
+
+#### So, the new album experiments with a trio of three languages, blending English, some Italian, and French. What’s it like to write different melodies in all of these similar, but explicitly different languages?
+T: When we write songs, the first few melodies that come out with chords come out from mumble and nonsense. When we blended all of these different languages, I saw everyone’s eyes lit with fear and excitement. There is this leap of faith and bonding quality when you write it together. Some of our lyrics in this album refer to obscure gelatos,—we’re always trying to tell a story.
+
+
+#### Yeah, I’ve noticed this central theme of classic Italy in Ti Amo. Specifically, the theme of “television” seems to appear in J-boy, what’s the story behind that?
+T: There was a lot of inspiration that came from Italian and some German television rom our childhood memories. Now, you can simply watch it all on YouTube [laughs]. There’s a goldmine of references, which are far enough in our memory to create something contemporary about it. We were not trying to be authentic, rather slightly off.
+
+
+> “Everything has a visual cue at some point, but I think it’s interesting to mix two things that shouldn’t be together and don’t really get along. When it’s on the same song, they are forced to co-habit.”
+
+
+#### Aside from television, what else inspired you? I know artists can find inspiration from the most random physical objects out there like Mac Demarco and his Viceroy cigarettes; did the band find any particular “physical” items that helped shape the sound for Ti Amo?
+T: There were some items in the studio that I’m sure played a role that we were probably unaware of. I remember this portrait of the first French Astronaut—it was there the whole time and you know it wasn’t the most high-tech outfit, yet the guy still went to space. It was a motivation that it’s possible for us [laughs]. Everything has a visual cue at some point, but I think it’s interesting to mix two things that shouldn’t be together and don’t really get along. When it’s on the same song, they are forced to co-habit.
+
+
+#### Let’s talk about the tour. Any particular festivals you excited to play?
+T: The ones I don’t know. To be in Chicago one night and then at the Hollywood bowl—it’s fun to get a taste of the world in one week. It’s like an extensive course. Some of the shows when you play for a small venue are really exciting. The place I’m least excited to play are the places with so music that it feels like a factory. For example, Glastonbury has over 200 bands, which feels overwhelming because it’s a giant festival. However, I’m excited to play them all!
+
+
+#### We talked earlier how contrast and juxtaposition between two things that should not go together can be fun to experiment with. Was it hard to make upward music in full contradiction with the political climate in Paris or did you draw inspiration from that unrest?
+T: Our music is the result of trying to create a conscious formula rather than a political statement. I don’t really know how to do be political with music [laughs.] The times call for being responsible—but we got into music because we didn’t want to be responsible. I’d feel like a hypocrite if I changed that. I vote, I do things my community, and the times are horrible. For music it wouldn’t be helpful for us to go there. I don’t think it’s escapism or denial, you can tell Ti Amo is made in dark times, but there are no political statements. What’s really powerful about the arts is it can be whatever it wants to be.
