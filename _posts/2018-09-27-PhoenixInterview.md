@@ -22,8 +22,8 @@ Ti Amo has been in the works as early as September 2014 by Phoenix and has been 
 **T:** Yeah, it really was out of nowhere. We stayed in the same room to write music for about 3 years, it’s really strange because we have the most boring, most unexciting life for three years and then for a year or half, we get to travel and live this exciting life playing music for people. It was like Groundhog day—we basically stayed in the same room just writing music for three years pretty much.
 
 
-#### D: Sounds like school. Living this unexciting life for the majority of your school days and then being free in the summer.
-**T:** It’s similar to college, I’ve always been jealous of college in the US as a highlight of your life, where as in France it’s different and right from the beginning I couldn’t see myself committing to that. I’ve always envied the US for that culture.
+#### D: Sounds like school. Living this routine life for the majority of your school days and then being free in the summer.
+**T:** Yeah, it’s similar to college. I’ve always been jealous of college in the US as a highlight of your life, where as in France it’s different and right from the beginning I couldn’t see myself committing to that. I’ve always envied the US for that culture.
 
 
 #### D: Yeah, I guess college is really seen as this integral time of experimental development and pressure to have the best four years of their life.
