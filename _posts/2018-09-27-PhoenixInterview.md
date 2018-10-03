@@ -7,7 +7,7 @@ featured_image: '/images/Phoenix2.jpg'
 ![](/images/Phoenix1.jpg)
 
 
-*Back at UCLA Radio, I had a chance to interview lead singer Thomas Mars from the band Phoenix. Below is the interview.
+*Back at UCLA Radio, I had a chance to interview lead singer Thomas Mars from the band Phoenix. Below is the interview.*
 
 
 ### Set to debut on June 9th, 2017,
