@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/HepB1.png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/HepB1.png)
 
 ## Demo content
 
