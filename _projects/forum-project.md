@@ -9,10 +9,10 @@ featured_image: '/images/Project1.jpg'
 
 
 # Testing a redesign of an outdated community support forum.
-* **For:** Desktop
-* **Role:** User Research
-* **Client:** Medallurgy UX
-* **Tools:** InVision, GoToMeeting, Excel.
+* **For: Desktop**
+* **Role: User Research**
+* **Client: Medallurgy UX**
+* **Tools: InVision, GoToMeeting, Excel, Google Sheets.**
 
 ---
 
@@ -22,7 +22,7 @@ featured_image: '/images/Project1.jpg'
 *Due to a nondisclosure agreement, identifying characteristics and some parameters of the project have been left out.*
 
 
-I worked on a project where we tested a prototype of a redesigned community support forum. The client's primary goal was to update an outdated community support forum and test the user experience of specific forum features. They were also interested in how users navigated the information architecture of the new forum.  With a small team of four other researchers, we worked with the client and delivered an insightful report with deliverables. My role involved coordinating respondents, conducting usability test sessions, and analyzing the data into actionable insights.
+I worked on a project where we tested a prototype of a redesigned community support forum. The client's primary goal was to update an outdated community support forum and test the user experience of specific forum features. They were also interested in how users navigated the information architecture of the new forum.  With a team of four other researchers, we worked with the client and delivered an insightful report with a variety of deliverables. My role involved coordinating respondents, creating research material, conducting usability test sessions, and analyzing the data into actionable insights.
 
 #### The Challenge:
 
@@ -30,7 +30,7 @@ Community forums are used to discover solutions and to allow open discussion of 
 
 #### The Solution:
 
-We were given specific constraints to work with such as what features to test, what main insights were expected, and an average timeframe of the project. As we waited for the prototype to be finalized by our client, we began to solve the problem by discovering the type of users that would use the community support forum website.
+We were given specific constraints to work with such as what features to test, what main insights were expected from stakeholders, and an average timeframe of the project. We strategized and tailored our strategy to suit these constraints. As we waited for the prototype to be finalized by our client, we began to solve the problem by discovering the type of users that would use the community support forum website.
 
 
 ---
