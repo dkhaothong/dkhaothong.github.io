@@ -31,6 +31,12 @@ I worked on a project where we tested a prototype of a redesigned community supp
 *The original design.*
 
 
+![](/images/SupportForum7.jpg)
+
+
+*The new design.*
+
+
 #### The Challenge:
 
 Community forums are used to discover solutions and to allow open discussion of various topics with other users. In the tech community, these forums are very insightful for developers, designers, and IT professionals. Our challenge, was that a client had recently redesigned the user interface (UI) of their forum and wanted us to test features on prospective users.
