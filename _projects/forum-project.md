@@ -11,7 +11,7 @@ featured_image: '/images/Project1.jpg'
 # Testing a redesign of an outdated community support forum.
 * **For: Desktop**
 * **Role: User Research**
-* **Client: Medallurgy UX**
+* **Client: Fortune 500 company via Medallurgy UX**
 * **Tools: InVision, GoToMeeting, Excel, Google Sheets.**
 
 ---
@@ -23,6 +23,9 @@ featured_image: '/images/Project1.jpg'
 
 
 I worked on a project where we tested a prototype of a redesigned community support forum. The client's primary goal was to update an outdated community support forum and test the user experience of specific forum features. They were also interested in how users navigated the information architecture of the new forum.  With a team of four other researchers, we worked with the client and delivered an insightful report with a variety of deliverables. My role involved coordinating respondents, creating research material, conducting usability test sessions, and analyzing the data into actionable insights.
+
+
+![](/images/SupportForum1.jpg)
 
 #### The Challenge:
 
