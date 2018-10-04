@@ -26,6 +26,8 @@ I worked on a project where we tested a prototype of a redesigned community supp
 
 
 ![](/images/SupportForum1.jpg)
+The original design.
+
 
 #### The Challenge:
 
