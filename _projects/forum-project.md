@@ -61,6 +61,9 @@ We made personas of the type of users that would visit so we could accurately re
 Soon after, we recieved the prototype of the community support forum via InVision. We learned what features we had to test on the prototype and developed the user flow for these different features. Because we did not play a role in the design of the prototype, it was very significant for us to be familiarized with the flow before we conducted any tests.
 
 
+![](/images/SupportForum3.png)
+
+
 **We needed to test and evaluate:**
 
 
@@ -104,6 +107,9 @@ I worked as a notetaker and a independent moderator. We discovered that overall,
 
 
 ![](/images/SupportForum2.png)
+
+
+*An example of how our insights were presented to stakeholders.*
 
 
 With the usability test being a succcess, we all spent time after to discuss our collective experiences. After talking for hours with respondents, our heads were filled with information and we needed to synthesize our experiences. A presentation was created highlighting the background of the study, our methodology, and key takeaways. The presentation was chunked into the different tasks and featured a summary of our notes from a specific task, a quote from a respondent, and an actionable reccomendation.  
