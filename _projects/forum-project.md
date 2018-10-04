@@ -83,10 +83,14 @@ Soon after, we recieved the prototype of the community support forum via InVisio
 We used an Excel spreadsheet to list all the various user flows for the different features. With the user flows completed and a greater understanding of the prototype, we developed tasks for the different features we needed to evaluate. The scenario-based tasks had to allign with the goals of the task (e.g., registering for the forum) and follow a discussion guide we would use for usability testing.
 
 
+![](/images/SupportForum5.png)
+
+
 #### Preparing the Lab:
 
 Before we could conduct any test sessions, we started by creating a discussion guide. This was the most important deliverable we had to develop because it would help us conduct the usability test more effectively, provide key insights for our stakeholders depending on the questions we asked, and give us variety in data (e.g., what users said versus what they actually did). 
 
+![](/images/SupportForum1.jpg)
 
 The discussion guide was essentially a list of behavioral questions that we could probe respondents with. The goal of the discussion guide was to create a direct conversation that could facilitate this conversation. We designed our discussion guide to have open-ended questions and likert-scale based questions after completing moderated tasks. The questions were strategically created to assess findability, template design, content relevancy, and any general UX improvements of the community support forum.
 
