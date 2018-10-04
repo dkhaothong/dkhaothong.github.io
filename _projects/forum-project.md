@@ -90,7 +90,9 @@ We used an Excel spreadsheet to list all the various user flows for the differen
 
 Before we could conduct any test sessions, we started by creating a discussion guide. This was the most important deliverable we had to develop because it would help us conduct the usability test more effectively, provide key insights for our stakeholders depending on the questions we asked, and give us variety in data (e.g., what users said versus what they actually did). 
 
-![](/images/SupportForum1.jpg)
+
+![](/images/SupportForum6.png)
+
 
 The discussion guide was essentially a list of behavioral questions that we could probe respondents with. The goal of the discussion guide was to create a direct conversation that could facilitate this conversation. We designed our discussion guide to have open-ended questions and likert-scale based questions after completing moderated tasks. The questions were strategically created to assess findability, template design, content relevancy, and any general UX improvements of the community support forum.
 
