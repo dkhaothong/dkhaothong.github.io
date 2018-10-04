@@ -31,7 +31,7 @@ I worked on a project where we tested a prototype of a redesigned community supp
 *The original design.*
 
 
-![](/images/SupportForum7.jpg)
+![](/images/SupportForum7.png)
 
 
 *The new design.*
