@@ -26,7 +26,9 @@ I worked on a project where we tested a prototype of a redesigned community supp
 
 
 ![](/images/SupportForum1.jpg)
-The original design.
+
+
+*The original design.*
 
 
 #### The Challenge:
@@ -99,6 +101,9 @@ On testing day, we all tested five respondents from the three different cohorts 
 I worked as a notetaker and a independent moderator. We discovered that overall, most respondents were able to generally complete the tasks we designed with success. However, some respondents also struggled with tasks related to finding specific types of information. For example, some respondents struggled with finding the registration process and navigating the different search features. 
 
 #### What Clients Learned:
+
+
+![](/images/SupportForum2.png)
 
 
 With the usability test being a succcess, we all spent time after to discuss our collective experiences. After talking for hours with respondents, our heads were filled with information and we needed to synthesize our experiences. A presentation was created highlighting the background of the study, our methodology, and key takeaways. The presentation was chunked into the different tasks and featured a summary of our notes from a specific task, a quote from a respondent, and an actionable reccomendation.  
