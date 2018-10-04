@@ -111,4 +111,4 @@ With the usability test being a succcess, we all spent time after to discuss our
 #### What I Learned:
 
 
-I learned that remote user research studies can be a great way to gain surface-based insights from users quickly. In addition, I also found
+Overall, I learned that remote user research studies can be a great way to gain insights from users quickly. The duration of the project took roughly two weeks and our client got an in-depth perspective on what features to prioritize for their product. In addition, I also discovered how difficult it was to independently moderate a usability session with no partner. Having to take notes, moderate the respondent, and have a conversation at the same time proved to be quite difficult.
