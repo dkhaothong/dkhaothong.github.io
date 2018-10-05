@@ -32,7 +32,7 @@ With a team of four other researchers, we worked with the client and delivered a
 	<img src="/images/SupportForum7.png">
 </div>
 
-<p style="text-align: center;"> **The original design vs. the new design of the forum.** </p>
+<p style="text-align: center;"> The original design vs. the new design of the forum.</p>
 
 
 #### The Challenge:
@@ -41,7 +41,7 @@ Community forums are used to discover solutions and to allow open discussion of 
 
 #### The Solution:
 
-We were given specific constraints to work with such as what features to test, what main insights were expected from stakeholders, and an average timeframe of the project. We strategized and tailored our strategy to suit these constraints. As we waited for the prototype to be finalized by our client, we began to solve the problem by discovering the type of users that would use the community support forum website.
+We were given specific constraints to work with such as what features to test, what main insights stakerholders expected to attain, and an average deadline of the project. We strategized and tailored our strategy to suit these constraints. As we waited for the prototype to be finalized by our client, we began to solve the challenge by discovering the type of users that would use the community support forum website.
 
 
 ---
@@ -52,17 +52,31 @@ We were given specific constraints to work with such as what features to test, w
 
 #### Understanding the Users:
 
-We made personas of the type of users that would visit the forum so we could accurately recruit relavent respondents. We based our personas based off data from our stakeholder interviews and an analysis of the different forum topics. We divided the types of users into three specific cohorts. We recruited FPGA developers, software developers, and technical support seekers. We recruited five users for each cohort via UserInterviews. The users were screened to get a diverse sample of respondents with different ranges of professional experience and age.
+We made personas of the type of users that would visit the forum so we could accurately recruit relavent respondents. We based our personas based off data from our stakeholder interviews and an analysis of the different forum topics. We divided the types of users into three specific cohorts. 
+
+
+We recruited FPGA developers, software developers, and technical support seekers. We recruited five users for each cohort via UserInterviews. The users were screened to get a diverse sample of respondents with different ranges of professional experience and age.
 
 
 #### Exploring the Competition: 
 
- We had an open discussion regarding what everyone thought "good UX" was for community support forums. I described how a great community support forum had a clear ranking system, chunked different information into relavent topics, and kept the visual design as minimal as possible. We analyzed the design of popular community support forums (Reddit, Stack Overflow) so we could build our expertise and provide accurate reccommendations for our client. 
+ As researchers, we had an open discussion regarding what everyone defined "good UX" as for community support forums. I described how a great community support forum had a clear ranking system, chunked different information into relavent topics, and kept the visual design as minimal as possible. 
+ 
+ 
+ We analyzed the design of popular community support forums (Reddit, Stack Overflow) so we could build our expertise and provide accurate reccommendations for our client. 
 
 
 #### Understanding the Flow:
 
-Soon after, we recieved the prototype of the community support forum via InVision. We learned what features we had to test on the prototype and developed the user flow for these different features. Because we did not play a role in the design of the prototype, it was very significant for us to be familiarized with the flow before we conducted any tests.
+Soon after, we recieved the prototype of the community support forum via InVision. We learned what features we had to test on the prototype and developed the user flow for these different features. Because we did not play a role in the design of the prototype, it was very significant for us to be familiarized with the user flow before we conducted any tests. We used an Excel spreadsheet to list all the various user flows for the different features. 
+
+
+![](/images/SupportForum4.png)
+
+
+#### Developing Tasks:
+
+With the user flows completed and a greater understanding of the prototype, we developed tasks for the different features we needed to evaluate. The scenario-based tasks had to allign with the goals of the task (e.g., registering for the forum) and follow a discussion guide we would use for usability testing.
 
 
 ![](/images/SupportForum3.png)
@@ -79,13 +93,6 @@ Soon after, we recieved the prototype of the community support forum via InVisio
 * Replying to an existing discussion.
 * Translating a post.
 * Private messaging another user.
-
-
-![](/images/SupportForum4.png)
-
-
-We used an Excel spreadsheet to list all the various user flows for the different features. With the user flows completed and a greater understanding of the prototype, we developed tasks for the different features we needed to evaluate. The scenario-based tasks had to allign with the goals of the task (e.g., registering for the forum) and follow a discussion guide we would use for usability testing.
-
 
 ![](/images/SupportForum5.png)
 
