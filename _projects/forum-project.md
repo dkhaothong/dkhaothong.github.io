@@ -95,10 +95,8 @@ Before we could conduct any test sessions, we started by creating a discussion g
 ![](/images/SupportForum6.png)
 
 
-The discussion guide was essentially a list of behavioral questions that we could probe respondents with. The goal of the discussion guide was to create a direct conversation that could facilitate this conversation. We designed our discussion guide to have open-ended questions and likert-scale based questions after completing moderated tasks. The questions were strategically created to assess findability, template design, content relevancy, and any general UX improvements of the community support forum.
+The discussion guide was essentially a list of behavioral questions that we could probe respondents with. The goal of the discussion guide was to help facilitate direct conversations with our respondents. We designed our discussion guide to have open-ended questions and likert-scale based questions after completing moderated tasks. The questions were strategically created to assess findability, template design, content relevancy, and any general UX improvements of the community support forum.
 
-
-With the discussion guide completed, we practiced a few moderated pilot sessions to get familiar with the timing of the discussion guide and work out any possible technical kinks. 
 
 ---
 
@@ -108,7 +106,7 @@ With the discussion guide completed, we practiced a few moderated pilot sessions
 #### What we Discovered:
 
 
-On testing day, we all tested five respondents from the three different cohorts (FPGA, Software, Tech Support). Some sessions were moderated independently, while some sessions had a notetaker to assist. All sessions were recorded using a remote meeting software called GoToMeeting.
+On testing day, I tested five respondents from the three different cohorts (FPGA, Software, Tech Support). Some sessions were moderated independently, while some sessions had a notetaker to assist. All sessions were recorded using a remote meeting software called GoToMeeting.
 
 
 I worked as a notetaker and a independent moderator. We discovered that overall, most respondents were able to generally complete the tasks we designed with success. However, some respondents also struggled with tasks related to finding specific types of information. For example, some respondents struggled with finding the registration process and navigating the different search features. 
@@ -118,11 +116,10 @@ I worked as a notetaker and a independent moderator. We discovered that overall,
 
 ![](/images/SupportForum2.png)
 
+<p style="text-align: center;"> "An example of how we formatted our insights to stakeholders."</p> 
 
-*An example of how our insights were presented to stakeholders.*
 
-
-With the usability test being a succcess, we all spent time after to discuss our collective experiences. After talking for hours with respondents, our heads were filled with information and we needed to synthesize our experiences. A presentation was created highlighting the background of the study, our methodology, and key takeaways. The presentation was chunked into the different tasks and featured a summary of our notes from a specific task, a quote from a respondent, and an actionable reccomendation.  
+With the usability test being a succcess, we all spent time afterwards to discuss our collective experiences. After talking for hours with respondents, our heads were filled with information and we needed to synthesize the insights. A presentation was created highlighting the background of the study, our methodology, and key takeaways. The presentation was chunked into the different tasks and featured a summary of our notes from the discussion guide, a relavent quote from a respondent, and an actionable reccomendation.  
 
 ---
 
