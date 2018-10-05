@@ -22,7 +22,7 @@ featured_image: '/images/Project2.png'
 
 I led and developed a desktop wireframe for a user research agency website. The design was developed through a competitive analysis of other agency websites and an analysis of the existing website. There was a strong developmental focus on the information architecture and content to improve credibility for prospective clients that would visit the website. The wireframe was built on Sketch and iterated through remote meetings.  
 
-
+<br />
 <div style="text-align:center;">
     <a href="http://medallurgy.com" class="button button--large">View Website</a>
 </div>
@@ -39,9 +39,7 @@ I led and developed a desktop wireframe for a user research agency website. The 
 
 Masa Ramen is a restaurant located in San Jose, CA. My client wanted to create a user-friendly website where users could view the menu online. The website was built without a template using Wix’s drag and drop ability (similar to Sketch, but more limited). 
 
-
-
-
+<br />
 <div style="text-align:center;">
     <a href="https://www.masanoodlebar.com/" class="button button--large">View Website</a>
 </div>
