@@ -33,7 +33,7 @@ With a team of four other researchers, we worked with the client and delivered a
 </div>
 
 
-### The original design vs. the new design of the forum.
+<p style="text-align: center;"> ### The original design vs. the new design of the forum. </p>
 
 
 #### The Challenge:
