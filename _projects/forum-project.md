@@ -82,19 +82,9 @@ With the user flows completed and a greater understanding of the prototype, we d
 ![](/images/SupportForum3.png)
 
 
-**We needed to test and evaluate:**
+Here is an example of one of the tasks respondents had to accomplish:
 
-
-* The registration process.
-* The sign-in and log-in process.
-* Finding a relavent forum.
-* Posting a question
-* Posting an image.
-* Replying to an existing discussion.
-* Translating a post.
-* Private messaging another user.
-
-![](/images/SupportForum5.png)
+<p style="text-align: center;"> "You need information about MAX 10 power consumption. Using the prototype website, find the most appropriate forum for MAX10 power consumption information."</p> 
 
 
 #### Preparing the Lab:
