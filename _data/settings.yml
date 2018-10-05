@@ -67,8 +67,8 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Barlow|Raleway:300,400,500,600,700" rel="stylesheet">'
-  title_font: '"Barlow", sans-serif'
-  body_font: '"Raleway", sans-serif'
+  title_font: '"Raleway", sans-serif'
+  body_font: '"Barlow", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
