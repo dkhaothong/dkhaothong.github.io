@@ -116,7 +116,7 @@ I worked as a notetaker and a independent moderator. We discovered that overall,
 
 ![](/images/SupportForum2.png)
 
-<p style="text-align: center;"> "An example of how we formatted our insights to stakeholders."</p> 
+<p style="text-align: center;"> An example of how we formatted our insights to stakeholders.</p> 
 
 
 With the usability test being a succcess, we all spent time afterwards to discuss our collective experiences. After talking for hours with respondents, our heads were filled with information and we needed to synthesize the insights. A presentation was created highlighting the background of the study, our methodology, and key takeaways. The presentation was chunked into the different tasks and featured a summary of our notes from the discussion guide, a relavent quote from a respondent, and an actionable reccomendation.  
