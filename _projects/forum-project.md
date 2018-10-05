@@ -27,17 +27,13 @@ I worked on a project where we tested a prototype of a redesigned community supp
 
 With a team of four other researchers, we worked with the client and delivered an insightful report with a variety of deliverables. My role involved coordinating respondents, creating research material, conducting usability test sessions, and analyzing the data into actionable insights.
 
-
-![](/images/SupportForum1.jpg)
-
-
-                                                 *The original design of the forum.*
-
-
-![](/images/SupportForum7.png)
+<div class="gallery" data-columns="1">
+	<img src="/images/SupportForum1.jpg">
+	<img src="/images/SupportForum7.png">
+</div>
 
 
-                                                  *The new design of the forum.*
+### The original design vs. the new design of the forum.
 
 
 #### The Challenge:
