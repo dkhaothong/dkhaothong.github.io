@@ -59,9 +59,7 @@ Masa Ramen is a restaurant located in San Jose, CA. My client wanted to create a
 Khaosan Thai is a restaurant recently opened in San Jose, CA. I was tasked with creating a website that matched the interior design of the restaurant. The website was built without a template using Wix’s drag and drop ability. 
 
 
-        
-     
-     
+<br />
 <div style="text-align:center;">
     <a href="https://www.khaosanthaisj.com/" class="button button--large">View Website</a>
 </div>
