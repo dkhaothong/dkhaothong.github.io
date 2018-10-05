@@ -56,7 +56,10 @@ Masa Ramen is a restaurant located in San Jose, CA. My client wanted to create a
 #### OVERVIEW
 
 
-Khaosan Thai is a restaurant recently opened in San Jose, CA. I was tasked with creating a website that matched the interior design of the restaurant. The website was built without a template using Wix’s drag and drop ability. 
+Khaosan Thai is a restaurant recently opened in San Jose, CA. I was tasked with creating a website that matched the interior design of the restaurant. 
+
+
+The website was built without a template using Wix’s drag and drop ability. 
 
 
 <div style="text-align:center;">
@@ -72,7 +75,10 @@ Khaosan Thai is a restaurant recently opened in San Jose, CA. I was tasked with 
 #### OVERVIEW
 
 
-Api’s Floral is a floral shop located in San Jose, CA. My client wanted a landing page as the website was being developed and a prototype a developer could work with. The developmental process was heavily focused on aligning the visual branding with my client’s vision and making the website scannable. The landing page was built using Wix and the prototype was developed on Sketch. 
+Api’s Floral is a floral shop located in San Jose, CA. My client wanted a landing page as the website was being developed and a prototype a developer could work with. 
+
+
+The developmental process was heavily focused on aligning the visual branding with my client’s vision and making the website scannable. The landing page was built using Wix and the prototype was developed on Sketch. 
 
 
 <div style="text-align:center;">
