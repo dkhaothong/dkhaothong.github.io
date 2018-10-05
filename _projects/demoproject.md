@@ -1,6 +1,6 @@
 ---
-title: 'Demo Project'
-subtitle: 'User Research'
+title: 'Library Catalog'
+subtitle: 'User Experience Design'
 date: 2018-06-30 00:00:00
 featured_image: '/images/Worldcat1.jpg'
 ---
