@@ -82,7 +82,7 @@ With the user flows completed and a greater understanding of the prototype, we d
 ![](/images/SupportForum3.png)
 
 
-Here is an example of one of the tasks respondents had to accomplish:
+**Here is an example of one of the tasks respondents had to accomplish:**
 
 <p style="text-align: center;"> "You need information about MAX 10 power consumption. Using the prototype website, find the most appropriate forum for MAX10 power consumption information."</p> 
 
