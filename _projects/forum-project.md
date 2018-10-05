@@ -19,7 +19,7 @@ featured_image: '/images/Project1.jpg'
 
 ## OVERVIEW
 
-*Due to a nondisclosure agreement, identifying characteristics and some parameters of the project have been left out.*
+**_Due to a nondisclosure agreement, identifying characteristics and some parameters of the project have been left out._**
 
 
 I worked on a project where we tested a prototype of a redesigned community support forum. The client's primary goal was to update an outdated community support forum and test the user experience of specific forum features. They were also interested in how users navigated the information architecture of the new forum.  
