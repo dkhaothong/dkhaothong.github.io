@@ -32,8 +32,7 @@ With a team of four other researchers, we worked with the client and delivered a
 	<img src="/images/SupportForum7.png">
 </div>
 
-
-<p style="text-align: center;"> ### The original design vs. the new design of the forum. </p>
+<p style="text-align: center;"> **The original design vs. the new design of the forum.** </p>
 
 
 #### The Challenge:
@@ -53,7 +52,7 @@ We were given specific constraints to work with such as what features to test, w
 
 #### Understanding the Users:
 
-We made personas of the type of users that would visit so we could accurately recruit relavent respondents. We based our personas based off data from our stakeholder interviews and an analysis of the different forum topics. We divided the types of users into three specific cohorts. We recruited FPGA developers, software developers, and technical support seekers. We recruited five users for each cohort via UserInterviews. The users were screened to get a diverse sample of respondents with different ranges of professional experience and age. 
+We made personas of the type of users that would visit the forum so we could accurately recruit relavent respondents. We based our personas based off data from our stakeholder interviews and an analysis of the different forum topics. We divided the types of users into three specific cohorts. We recruited FPGA developers, software developers, and technical support seekers. We recruited five users for each cohort via UserInterviews. The users were screened to get a diverse sample of respondents with different ranges of professional experience and age.
 
 
 #### Exploring the Competition: 
