@@ -66,8 +66,8 @@ color_settings:
 
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700" rel="stylesheet">'
-  title_font: '"Work Sans", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Libre+Franklin|Work+Sans:300,400,500,600,700" rel="stylesheet">'
+  title_font: '"Libre Franklin", sans-serif'
   body_font: '"Work Sans", sans-serif'
   regular_weight: 400
   bold_weight: 600
