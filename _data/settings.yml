@@ -66,9 +66,9 @@ color_settings:
 
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Krub:300,400,500,600,700" rel="stylesheet">'
-  title_font: '"Krub", sans-serif'
-  body_font: '"Krub", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700" rel="stylesheet">'
+  title_font: '"Raleway", sans-serif'
+  body_font: '"Raleway", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
