@@ -35,8 +35,7 @@ With a team of four other researchers, we worked with the client and delivered a
 	<img src="/images/SupportForum1.jpg">
 	<img src="/images/SupportForum7.png">
 </div>
-
-<p style="text-align: center;"> _The original design vs. the new design of the forum._</p>
+<p style="text-align: center;"> The original design vs. the new design of the forum.</p>
 
 
 #### The Challenge
