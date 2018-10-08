@@ -30,7 +30,7 @@ Ti Amo has been in the works as early as September 2014 by Phoenix and has been 
 **T:** Oh yeah, a lot of anticipation and pressure.
 
 
-#### D: By the way, congrats on the opening of Sofia’s new movie, *The Beguiled*. Phoenix wrote the score for the movie. Are there any differences the songwriting process when you’re writing a score for a movie versus an album?
+#### D: By the way, congrats on the opening of Sofia’s new movie, *The Beguiled*. Phoenix wrote the score for the movie. Are there any differences in the songwriting process when you’re writing a score for a movie versus an album?
 **T:** It’s easier. There are limits, and we have frames of reference when we write scores. As a director, Sofia guides us in the right direction, while when it comes to our own music, we are the captain of our own ships and it can be daunting with money and time. When we first started out, renting out a studio was so expensive and we had such a limited amount of instruments and time to play. Now, there exists all of these different possibilities, which can be overwhelming. When we have a frame it allows us to be faster and more productive. We have visual cues and a preexisting environment that lets writing come easier for us.
 
 
