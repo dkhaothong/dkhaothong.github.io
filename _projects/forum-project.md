@@ -7,6 +7,7 @@ featured_image: '/images/Project1.jpg'
 
 ![](/images/Project1.jpg)
 
+<br>
 
 # Testing a redesign of an outdated community support forum.
 * **For:** Desktop
