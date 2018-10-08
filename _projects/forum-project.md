@@ -13,7 +13,7 @@ featured_image: '/images/Project1.jpg'
 * **Role:** User Research
 * **Client:** Fortune 500 company via Medallurgy UX
 * **Tools:** InVision, GoToMeeting, Excel, Google Sheets.
-
+<br>
 ---
 
 
