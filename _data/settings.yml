@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
-      url: '/about/'
+      url: '/about'
 
 footer_settings:
   logo_image: 
