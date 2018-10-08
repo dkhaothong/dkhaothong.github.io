@@ -10,7 +10,6 @@ featured_image: '/images/Project1.jpg'
 
 # Testing a redesign of an outdated community support forum.
 
-<br>
 * **For:** Desktop
 * **Role:** User Research
 * **Client:** Fortune 500 company via Medallurgy UX
