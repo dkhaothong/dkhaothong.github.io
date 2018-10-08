@@ -71,7 +71,7 @@ We recruited FPGA developers, software developers, and technical support seekers
 
 #### Understanding the Flow
 
-Soon after, we recieved the prototype of the community support forum via InVision. We learned what features we had to test on the prototype and developed the user flow for these different features. Because we did not play a role in the design of the prototype, it was very significant for us to be familiarized with the user flow before we conducted any tests. We used an Excel spreadsheet to list all the various user flows for the different features. 
+Soon after, we recieved the prototype of the community support forum via InVision. We learned what features we had to test on the prototype and developed the user flow for these different features. Because we did not play a role in the design of the prototype, it was very significant for us to be familiarized with the user flow before we took any further steps. We used an Excel spreadsheet to list all of the various user flows for the different features the prototype allowed us to accomplish. 
 
 
 ![](/images/SupportForum4.png)
@@ -79,15 +79,15 @@ Soon after, we recieved the prototype of the community support forum via InVisio
 
 #### Developing Tasks
 
-With the user flows completed and a greater understanding of the prototype, we developed tasks for the different features we needed to evaluate. The scenario-based tasks had to allign with the goals of the task (e.g., registering for the forum) and follow a discussion guide we would use for usability testing.
+With the user flows completed and a greater understanding of the prototype, we developed scenario-based tasks for the different features we needed to evaluate. The scenario-based tasks had to allign with the goals of the task (e.g., registering for the forum) and follow a discussion guide we would use for usability testing.
 
 
 ![](/images/SupportForum3.png)
 
 
-##### Here is an example of one of the tasks respondents had to accomplish:
+##### Here is an example of one of the scenario-based tasks respondents had to accomplish:
 
-<p style="text-align: center;"> "You need information about MAX 10 power consumption. Using the prototype website, find the most appropriate forum for MAX10 power consumption information."</p> 
+"You need information about MAX 10 power consumption. Using the prototype website, find the most appropriate forum for MAX10 power consumption information."
 
 
 #### Preparing the Lab
@@ -130,4 +130,4 @@ With the usability test being a succcess, we all spent time afterwards to discus
 #### What I Learned
 
 
-Overall, I learned that remote user research studies can be a great way to gain insights from users quickly. The duration of the project took roughly two weeks and our client got an in-depth perspective on what features to prioritize for their product. In addition, I also discovered how difficult it was to independently moderate a usability session with no partner. Having to take notes, moderate the respondent, and have a conversation at the same time proved to be quite difficult. For the future, I will try to conduct usability test sessions with another partner (if constraints allow me to) and be prepared to iterate on the spot to fix errors that will occur from conducting remote user research.
+Overall, I learned that remote user research studies can be a great way to gain insights from users quickly. The duration of the project took roughly two weeks and our client got an in-depth perspective on what features to prioritize for their product. In addition, I also discovered how difficult it was to independently moderate a usability session with no partner. Having to take notes, moderate the respondent, and have a well-flowing conversation at the same time proved to be difficult to juggle. For the future, I would try to conduct usability test sessions with another partner (if constraints allow me to) and be prepared to iterate on the spot to fix errors that will occur from conducting remote user research.
