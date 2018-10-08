@@ -14,10 +14,10 @@ featured_image: '/images/Project2.png'
 </div>
 
 
-[Medallurgy UX](http://medallurgy.com/) 
-----
+# [Medallurgy UX](http://medallurgy.com/) 
+
  
-#### OVERVIEW
+## OVERVIEW
 
 
 I led and developed a desktop wireframe for a user research agency website. The design was developed through a competitive analysis of other agency websites and an analysis of the existing website. There was a strong developmental focus on the information architecture and content to improve credibility for prospective clients that would visit the website. The wireframe was built on Sketch and iterated through remote meetings.  
@@ -31,10 +31,10 @@ I led and developed a desktop wireframe for a user research agency website. The 
 
 ![](/images/Masa1.png)
 
-[Masa Ramen](https://www.masanoodlebar.com/)
-----
+# [Masa Ramen](https://www.masanoodlebar.com/)
 
-#### OVERVIEW
+
+## OVERVIEW
 
 
 Masa Ramen is a restaurant located in San Jose, CA. My client wanted to create a user-friendly website where users could view the menu online. The website was built without a template using Wix’s drag and drop ability (similar to Sketch, but more limited). 
@@ -48,10 +48,10 @@ Masa Ramen is a restaurant located in San Jose, CA. My client wanted to create a
 
 ![](/images/Khao1.png)
 
-[Khaosan Thai](https://www.khaosanthaisj.com/)
+# [Khaosan Thai](https://www.khaosanthaisj.com/)
 ----
 
-#### OVERVIEW
+## OVERVIEW
 
 
 Khaosan Thai is a restaurant recently opened in San Jose, CA. I was tasked with creating a website that matched the interior design of the restaurant. The website was built without a template using Wix’s drag and drop ability. 
@@ -64,10 +64,10 @@ Khaosan Thai is a restaurant recently opened in San Jose, CA. I was tasked with 
 
 ![](/images/Api1.png)
 
-[Api's Floral](https://www.apisfloral.com/)
+# [Api's Floral](https://www.apisfloral.com/)
 ----
 
-#### OVERVIEW
+## OVERVIEW
 
 
 Api’s Floral is a floral shop located in San Jose, CA. My client wanted a landing page as the website was being developed and a prototype a developer could work with. The developmental process was heavily focused on aligning the visual branding with my client’s vision and making the website scannable. The landing page was built using Wix and the prototype was developed on Sketch. 
