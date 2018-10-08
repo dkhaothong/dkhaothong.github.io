@@ -11,7 +11,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 > **_“Optimism is a strategy for making a better future. Because unless you believe that the future can be better, you are unlikely to step up and take responsibility for making it so.”_**        — Noam Chomsky
 
-### Let's Get Personal.
+# Let's Get Personal.
 
 Hi, I'm Derek Khaothong. My last name means 'Golden Mountain' in Thai.
 I was born and raised in the Bay Area, where I currently reside today. I have a background in digital media and studied cognitive science at the University of California, Los Angeles.
@@ -28,7 +28,7 @@ Outside of design, you can find me noodling on my guitar, cooking up tasty meals
 
 ---
 
-### Let's Chat.
+# Let's Chat.
 
 I'd love to talk about anything - from design in tech, opportunities to collaborate, or my experiences as a first-generation college graduate. 
 
