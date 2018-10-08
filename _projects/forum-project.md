@@ -15,7 +15,7 @@ featured_image: '/images/Project1.jpg'
 * **For:** Desktop
 * **Role:** User Research
 * **Client:** Fortune 500 company via Medallurgy UX
-* **Tools:** InVision, GoToMeeting, Excel, Google Sheets.
+* **Tools:** InVision, GoToMeeting, Excel, Google Sheets
 <br>
 
 ---
@@ -117,10 +117,10 @@ I worked as a notetaker and a independent moderator. We discovered that overall,
 #### What Clients Learned
 
 
-![](/images/SupportForum2.png)
-
-
 With the usability test being a succcess, we all spent time afterwards to discuss our collective experiences. After talking for hours with respondents, our heads were filled with information and we needed to synthesize the insights. A presentation was created highlighting the background of the study, our methodology, and key takeaways. The presentation was chunked into the different tasks and featured a summary of our notes from the discussion guide, a relavent quote from a respondent, and an actionable reccomendation.  
+
+
+![](/images/SupportForum2.png)
 
 ---
 
