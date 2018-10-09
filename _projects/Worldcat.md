@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/Worldcat1.jpg'
 ---
 
-![](/images/Worldcat2.jpg)
+<img src="/images/Worldcat2.jpg" alt="Worldcat2"  width="800" height="1000" />
 
 ---
 
