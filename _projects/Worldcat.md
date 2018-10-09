@@ -24,7 +24,7 @@ featured_image: '/images/Worldcat1.jpg'
 ## OVERVIEW
 
 
-I worked on a project where we tested a prototype of a redesigned community support forum. The client's primary goal was to update an outdated community support forum and test the user experience of specific forum features. They were also interested in how users navigated the information architecture of the new forum.  
+After having a frustrating experience at a local library due to an online library catalog, I based a design exercise of that experience. 
 
 
 With a team of four other researchers, we worked with the client and delivered an insightful report with a variety of deliverables. My role involved coordinating respondents, creating research material, conducting usability test sessions, and analyzing the data into actionable insights.
