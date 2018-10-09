@@ -5,6 +5,21 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/Project2.png'
 ---
 
+ [SF Hep B Free](https://www.sfhepbfree.org/) 
+
+ 
+#### OVERVIEW
+
+
+I led and developed a desktop wireframe for a user research agency website. The design was developed through a competitive analysis of other agency websites and an analysis of the existing website. There was a strong developmental focus on the information architecture and content to improve credibility for prospective clients that would visit the website. The wireframe was built on Sketch and iterated through remote meetings.  
+
+<br />
+<div style="text-align:center;">
+    <a href="https://www.sfhepbfree.org/" class="button button--large">View Website</a>
+</div>
+
+
+***
 <div class="gallery" data-columns="1">
 	<img src="/images/Medallurgy1.jpg">
 	<img src="/images/Medallurgy2.jpg">
@@ -54,7 +69,7 @@ Masa Ramen is a restaurant located in San Jose, CA. My client wanted to create a
 ### OVERVIEW
 
 
-Khaosan Thai is a restaurant recently opened in San Jose, CA. I was tasked with creating a website that matched the interior design of the restaurant. The website was built without a template using Wix’s drag and drop ability. 
+Khaosan Thai is a Thai restaurant in San Jose, CA. I was tasked with creating a website that matched the interior design of the restaurant. The website was built without a template using Wix’s drag and drop ability. 
 
 <br />
 <div style="text-align:center;">
