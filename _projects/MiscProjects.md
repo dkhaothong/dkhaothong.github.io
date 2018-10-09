@@ -14,7 +14,7 @@ featured_image: '/images/Project2.png'
 #### OVERVIEW
 
 
-I led and developed a desktop wireframe for a user research agency website. The design was developed through a competitive analysis of other agency websites and an analysis of the existing website. There was a strong developmental focus on the information architecture and content to improve credibility for prospective clients that would visit the website. The wireframe was built on Sketch and iterated through remote meetings.  
+SF Hep B Free is a non profit in the Bay Area with an aim to improve the awareness of Hepatitis B in the Asian Pacific Islander community (they are most prone to Hep B). I currently volunteer at SF Hep B Free as a web designer to improve the visual design of their website to make information scannable and keep content updated with accurate information.
 
 <br />
 <div style="text-align:center;">
