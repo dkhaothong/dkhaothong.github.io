@@ -14,7 +14,7 @@ featured_image: '/images/Worldcat1.jpg'
 
 * **For:** Mobile
 * **Role:** User Experience Design
-* **Client:** Self
+* **Client:** Design Exercise for Self
 * **Tools:** Sketch, Pen & Paper
 <br>
 
