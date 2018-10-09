@@ -30,8 +30,8 @@ After having a frustrating experience at a local library due to an online librar
 With a team of four other researchers, we worked with the client and delivered an insightful report with a variety of deliverables. My role involved coordinating respondents, creating research material, conducting usability test sessions, and analyzing the data into actionable insights.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/SupportForum1.jpg">
-	<img src="/images/SupportForum7.png">
+	<img src="/images/placeholder.jpg">
+	<img src="/images/placeholder.jpg">
 </div>
 <p style="text-align: center;"> The original design vs. the new design of the forum.</p>
 
@@ -72,7 +72,7 @@ We recruited FPGA developers, software developers, and technical support seekers
 Soon after, we recieved the prototype of the community support forum via InVision. We learned what features we had to test on the prototype and developed the user flow for these different features. Because we did not play a role in the design of the prototype, it was very significant for us to be familiarized with the user flow before we took any further steps. We used an Excel spreadsheet to list all of the various user flows for the different features the prototype allowed us to accomplish. 
 
 
-![](/images/SupportForum4.png)
+![](/images/placeholder.jpg)
 
 
 #### Developing Tasks
@@ -80,7 +80,7 @@ Soon after, we recieved the prototype of the community support forum via InVisio
 With the user flows completed and a greater understanding of the prototype, we developed scenario-based tasks for the different features we needed to evaluate. The scenario-based tasks had to allign with the goals of the task (e.g., registering for the forum) and follow a discussion guide we would use for usability testing.
 
 
-![](/images/SupportForum3.png)
+![](/images/placeholder.jpg)
 
 
 ##### Here is an example of one of the scenario-based tasks respondents had to accomplish:
@@ -93,7 +93,7 @@ With the user flows completed and a greater understanding of the prototype, we d
 Before we could conduct any test sessions, we started by creating a discussion guide. This was the most important deliverable we had to develop because it would help us conduct the usability test more effectively, provide key insights for our stakeholders depending on the questions we asked, and give us variety in data (e.g., what users said versus what they actually did). 
 
 
-![](/images/SupportForum6.png)
+![](/images/placeholder.jpg)
 
 
 The discussion guide was essentially a list of behavioral questions that we could probe respondents with. The goal of the discussion guide was to help facilitate direct conversations with our respondents. We designed our discussion guide to have open-ended questions and likert-scale based questions after completing moderated tasks. The questions were strategically created to assess findability, template design, content relevancy, and any general UX improvements of the community support forum.
@@ -118,7 +118,7 @@ I worked as a notetaker and a independent moderator. We discovered that overall,
 With the usability test being a succcess, we all spent time afterwards to discuss our collective experiences. After talking for hours with respondents, our heads were filled with information and we needed to synthesize the insights. A presentation was created highlighting the background of the study, our methodology, and key takeaways. The presentation was chunked into the different tasks and featured a summary of our notes from the discussion guide, a relavent quote from a respondent, and an actionable reccomendation.  
 
 
-![](/images/SupportForum2.png)
+![](/images/placeholder.jpg)
 
 ---
 
