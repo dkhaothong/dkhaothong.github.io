@@ -18,7 +18,7 @@ SF Hep B Free is a non profit in the Bay Area with an aim to improve the awarene
 
 <br />
 <div style="text-align:center;">
-    <a href="https://www.sfhepbfree.org/" class="button button--large">View Website</a>
+    <a href="https://www.sfhepbfree.org/" class="button button--large">VIEW WEBSITE</a>
 </div>
 
 
@@ -42,7 +42,7 @@ I led and developed a desktop wireframe for a user research agency website. The 
 
 <br />
 <div style="text-align:center;">
-    <a href="http://medallurgy.com" class="button button--large">View Website</a>
+    <a href="http://medallurgy.com" class="button button--large">VIEW WEBSITE</a>
 </div>
 ***
 
@@ -59,7 +59,7 @@ Masa Ramen is a restaurant located in San Jose, CA. My client wanted to create a
 
 <br />
 <div style="text-align:center;">
-    <a href="https://www.masanoodlebar.com/" class="button button--large">View Website</a>
+    <a href="https://www.masanoodlebar.com/" class="button button--large">VIEW WEBSITE</a>
 </div>
 ***
 
@@ -76,7 +76,7 @@ Khaosan Thai is a Thai restaurant in San Jose, CA. I was tasked with creating a 
 
 <br />
 <div style="text-align:center;">
-    <a href="https://www.khaosanthaisj.com/" class="button button--large">View Website</a>
+    <a href="https://www.khaosanthaisj.com/" class="button button--large">VIEW WEBSITE</a>
 </div>
 ***
 
@@ -92,5 +92,5 @@ Api’s Floral is a floral shop located in San Jose, CA. My client wanted a land
 
 <br />  
 <div style="text-align:center;">
-    <a href="https://www.apisfloral.com/" class="button button--large">View Website</a>
+    <a href="https://www.apisfloral.com/" class="button button--large">VIEW WEBSITE</a>
 </div>
