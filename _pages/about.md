@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Derek Khaothong is an experience designer based in Silicon Valley.
+subtitle: Derek Khaothong is a user experience designer based in Silicon Valley.
 description: The about me section is a professional bio.
 featured_image: /images/demo/demo-landscape.jpg
 ---
