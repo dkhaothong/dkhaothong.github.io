@@ -206,7 +206,7 @@ a {
 	padding: 9px 10px 10px;
 	font-size: 13px;
 	line-height: 1;
-	border-radius: 8px solid $accent-color;
+	border-radius: 8px;
 	background: $accent-color;
 	color: $background-color;
 	font-weight: $button-weight;
@@ -219,8 +219,8 @@ a {
 	}
 
 	&:hover {
-		background: adjust-hue($accent-color,15%);
-		border-color: adjust-hue($accent-color,15%);
+		background: adjust-hue($accent-color,25%);
+		border-color: adjust-hue($accent-color,25%);
 		color: $background-color;
 	}
 
