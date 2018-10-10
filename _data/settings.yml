@@ -156,7 +156,9 @@ font_settings:
     letter_spacing: 0
 
 advanced_settings:
-  analytics_code: ""
+  analytics_code: "gtag('config', 'UA-75863467-2');"
+
+"
   custom_styles: ""
   header_js: ""
   footer_js: ""
