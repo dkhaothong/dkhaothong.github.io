@@ -157,8 +157,6 @@ font_settings:
 
 advanced_settings:
   analytics_code: "gtag('config', 'UA-75863467-2');"
-
-"
   custom_styles: ""
   header_js: ""
   footer_js: ""
