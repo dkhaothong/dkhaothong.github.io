@@ -25,7 +25,7 @@ featured_image: '/images/Worldcat1.jpg'
 
 
 **Project is currently being written up and finalized. Please stay tuned.**
-This was a solo design exercise for a job interview at an undisclosed startup. During this exercise, I was tasked with redesigning a library catalog interface. Specifically, I sought to create a universal library catalog system that could be used globally by other libraries. While doing competitive analysis research, I had discovered there was already a website called WorldCat that implemented this idea I had brainstormed. However, the website had no mobile-friendly version, so I sought out to create a design of how the mobile version would look and behave. 
+This was a solo design exercise for a job interview at an undisclosed startup. During this exercise, I was tasked with redesigning a library catalog interface. Specifically, I sought to create a universal library catalog system that could be used globally by other libraries. 
 
 <div class="gallery" data-columns="1">
 	<img src="/images/placeholder.jpg">
@@ -36,18 +36,13 @@ This was a solo design exercise for a job interview at an undisclosed startup. D
 
 #### The Challenge
 
-Library catalogs are used to find physical books, e-books, and other resources available. Every library has their own specific catalog system, so what if you were looking for a specific item and wanted to compare the availability of this book at different libraries? Introducing WorldCat, a union catalog that itemizes the collections of over 72,000 libraries to create a massive catalog of data. Despite solving a usability problem, WorldCat remains outdated and lacks a mobile version. My challenge, was to develop a mobile interface in twenty four hours.
-
-
-#### The Solution
-
-Insert Sentence here.
+Library catalogs are used to find physical books, e-books, and other resources available. Every library has their own specific catalog system, so what if you were looking for a specific item and wanted to compare the availability of this book at different libraries? Introducing WorldCat, a union catalog that itemizes the collections of over 72,000 libraries to create a massive catalog of data. Despite solving a usability problem, WorldCat remains outdated by lacking a mobile version. My challenge, was to develop a mobile interface in 72 four hours.
 
 
 ---
 
 
-## DESIGN
+## RESEARCH
 
 
 #### Understanding the Users
@@ -60,41 +55,20 @@ Insert Sentence here.
  Insert Sentence here.
  
  
-#### Understanding the Flow
 
-Insert Sentence here.
-
-
-![](/images/placeholder.jpg)
-
-
-#### Developing Tasks
-
-Insert Sentence here.
-
-
-![](/images/placeholder.jpg)
-
-
-#### Preparing the Lab
-
-Insert Sentence here.
-
-
-![](/images/placeholder.jpg)
 
 
 ---
 
 
-## INSIGHTS
+## DESIGN
 
-#### What we Discovered
+#### Creating Wireframes
 
 Insert Sentence here.
 
 
-#### What Clients Learned
+#### Presenting my Designs
 
 Insert Sentence here. 
 
