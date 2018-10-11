@@ -36,7 +36,8 @@ This was a solo design exercise for a job interview at an undisclosed startup. D
 
 #### The Challenge
 
-If you've ever been a broke college student, renting books from the ibrary is your solution to save money from buying overpriced textbooks. However, there is a lack of books 
+Library catalogs are used to find physical books, e-books, and other resources available. Every library has their own specific catalog system, so what if you were looking for a specific item and wanted to compare the availability of this book at different libraries? Introducing WorldCat, a union catalog that itemizes the collections of over 72,000 libraries to create a massive catalog of data. Despite solving a usability problem, WorldCat remains outdated and lacks a mobile version. My challenge, was to develop a mobile interface in twenty four hours.
+
 
 #### The Solution
 
