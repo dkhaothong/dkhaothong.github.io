@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/Worldcat1.jpg'
 ---
 
-<img src="/images/Worldcat2.jpg" alt="Worldcat2"  width="60%" height="60%" />
+<img src="/images/Worldcat1.jpg" alt="Worldcat1"  width="60%" height="60%" />
 
 ---
 
@@ -24,7 +24,8 @@ featured_image: '/images/Worldcat1.jpg'
 ## OVERVIEW
 
 
-**Project is currently being written up and finalized. Please stay tuned.** After having a frustrating experience at a local library due to an online library catalog, I based a design exercise of that experience. 
+**Project is currently being written up and finalized. Please stay tuned.**
+After having a frustrating experience at a local library due to an online library catalog, I was inspired to design a new experience as a design exercise. During this exercise, I set out to design a library catalog interface that could be used globally by implementing new features to preexisting library catalog systems. While designing these features, I had discovered there was already a website called WorldCat that implemented these features I had brainstormed. However, the website had no mobile-friendly version. I sought out to create a design of the mobile version. 
 
 
 <div class="gallery" data-columns="1">
