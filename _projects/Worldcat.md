@@ -25,8 +25,7 @@ featured_image: '/images/Worldcat1.jpg'
 
 
 **Project is currently being written up and finalized. Please stay tuned.**
-After having a frustrating experience at a local library due to an online library catalog, I was inspired to design a new experience as a design exercise. During this exercise, I set out to design a library catalog interface that could be used globally by implementing new features to preexisting library catalog systems. While designing these features, I had discovered there was already a website called WorldCat that implemented these features I had brainstormed. However, the website had no mobile-friendly version. I sought out to create a design of the mobile version. 
-
+This was a solo design exercise for a job interview at an undisclosed startup. During this exercise, I was tasked with redesigning a library catalog interface. Specifically, I sought to create a universal library catalog system that could be used globally by other libraries. While doing competitive analysis research, I had discovered there was already a website called WorldCat that implemented this idea I had brainstormed. However, the website had no mobile-friendly version, so I sought out to create a design of how the mobile version would look and behave. 
 
 <div class="gallery" data-columns="1">
 	<img src="/images/placeholder.jpg">
@@ -37,7 +36,7 @@ After having a frustrating experience at a local library due to an online librar
 
 #### The Challenge
 
-Insert Sentence here.
+If you've ever been a broke college student, renting books from the ibrary is your solution to save money from buying overpriced textbooks. However, there is a lack of books 
 
 #### The Solution
 
