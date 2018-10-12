@@ -24,7 +24,6 @@ featured_image: '/images/Worldcat1.jpg'
 ## OVERVIEW
 
 
-**Project is currently being written up. Please stay tuned.**
 This was a solo design exercise for a job interview at an undisclosed startup. During this exercise, I was tasked with redesigning an existing interface by adding, updating, or removing features. I naturally gravitated towards redesigning a library catalog interface due to past frustrating experiences. Specifically, I sought to develop a library catalog interface that could be used globally by other libraries. 
 
 
@@ -57,10 +56,6 @@ With the user flow completed, I began to create wireframes of the mobile interfa
 
 Insert sentence here.
 
-
-#### Presenting my Design
-
-Insert sentence here.
 
 ---
 
