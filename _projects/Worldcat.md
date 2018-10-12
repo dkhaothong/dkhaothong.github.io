@@ -58,9 +58,10 @@ Insert sentence here.
 
 <img src="/images/WorldCat3.jpg">
 
-
+<div class="gallery" data-columns="1">
 <img src="/images/WorldCat4.png" width="50%" height="50%" />
 <img src="/images/WorldCat5.png" width="50%" height="50%" />
+</div>
 
 ---
 
