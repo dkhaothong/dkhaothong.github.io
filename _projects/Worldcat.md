@@ -56,7 +56,11 @@ With the user flow completed, I began to create wireframes of the mobile interfa
 
 Insert sentence here.
 
-![](/images/WorldCat3.jpg)
+<div class="gallery" data-columns="1">
+	<img src="/images/WorldCat3.jpg">
+	<img src="/images/WorldCat4.png">
+ 	<img src="/images/WorldCat5.png">
+</div>
 
 ---
 
