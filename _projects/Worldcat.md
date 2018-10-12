@@ -56,6 +56,7 @@ With the user flow completed, I began to create wireframes of the mobile interfa
 
 Insert sentence here.
 
+<img src="/images/Worldcat3.jpg" alt="Worldcat3" />
 
 ---
 
