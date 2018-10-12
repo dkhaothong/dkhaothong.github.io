@@ -30,7 +30,7 @@ This was a solo design exercise for a job interview at an undisclosed startup. D
 
 #### The Challenge
 
-Library catalogs are used to find physical books, e-books online, and a variety of other resources. Every library has their own specific catalog system, so what if you were looking for a specific item and wanted to compare the availability of this book at different libraries? Introducing WorldCat, a union catalog that itemizes the collections of over 72,000 libraries to create a massive catalog of data. Despite solving a usability problem in library catalogs, WorldCat remains outdated by lacking a mobile version. My challenge, was to address a problem associated with an existing user interface, conceptualize how to fix that problem, and present a short example highlighting the changes I made to the existing user interface.
+Library catalogs are used to find physical books, e-books online, and a variety of other resources. Every library has their own specific catalog system, so what if you were looking for a specific item and wanted to compare the availability of this book at different libraries? Introducing WorldCat, a union catalog that itemizes the collections of over 72,000 libraries to create a massive catalog of data. Despite solving a usability problem in library catalogs, WorldCat remains outdated by lacking a mobile version. My challenge, was to conceptualize how a mobile interface would look and present a example highlighting the changes I made to the existing user interface.
 
 
 ---
@@ -41,7 +41,7 @@ Library catalogs are used to find physical books, e-books online, and a variety 
  
 #### Evaluating the Navigation 
 
-I began by creating a user flow of the desktop version of the website. Specifically, I was interested in determining the flow of how users would navigate the website when searching in the catalog. This was important because it would allow me to prioritize what features of the website needed a strong call-to-action. 
+I began by creating a user flow of the desktop version of the website. Specifically, I was interested in determining the flow of how users would navigate the website when searching in the catalog. This was important because it would allow me to prioritize what information needed a strong call-to-action when designing the mobile interface.
 
 ---
 
@@ -50,7 +50,7 @@ I began by creating a user flow of the desktop version of the website. Specifica
 
 #### Creating Wireframes
 
-Insert Sentence here.
+With the user flow completed, I began to create wireframes of the mobile interface. Since this was a design exercise with a concrete deadline, I focused on developing wireframes of pages I felt needed the highest priority. These were the search page, the search results page, and the item page. 
 
 
 #### Presenting my Designs
