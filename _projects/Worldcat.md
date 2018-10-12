@@ -38,19 +38,10 @@ Library catalogs are used to find physical books, e-books online, and a variety 
 
 ## RESEARCH
 
-
-#### Understanding the Users
-
-Insert Sentence here.
-
-
-#### Exploring the Competition 
-
- Insert Sentence here.
  
- 
+#### Evaluating the Navigation 
 
-
+I began by creating a user flow of the desktop version of the website. Specifically, I was interested in determining the flow of how users would navigate the website when searching in the catalog. This was important because it would allow me to prioritize what features of the website needed a strong call-to-action. 
 
 ---
 
