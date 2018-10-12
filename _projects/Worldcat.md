@@ -49,7 +49,7 @@ I began by creating a user flow of the desktop version of the website. Specifica
 
 #### Creating Wireframes
 
-With the user flow completed, I began to create wireframes of the mobile interface. Since this was a design exercise with a concrete deadline, I focused on developing wireframes of pages I felt needed the highest priority. These were the search page, the search results page, and the item page. 
+With the user flow completed, I began to create wireframes of the mobile interface. Since this was a design exercise with a concrete deadline, I focused on developing wireframes of pages I felt needed the highest priority. These were the search page, the search results page, and the item page. I sketched these out via pen and paper to save some time.
 
 
 #### Prototyping a Mockup
