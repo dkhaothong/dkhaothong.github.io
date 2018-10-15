@@ -52,6 +52,7 @@ Since this was a design exercise, I knew that any research on users I could cond
 
 With the user flow completed, I began to create wireframes of the mobile interface. I focused on developing wireframes of pages that were critical to the task of searching for a item in the library catalog. These were the search page, the search results page, and the item page. I sketched these out via pen and paper.
 
+<img src="/images/WorldCatWireframe.jpeg" alt="WorldCatWireframe"  width="50%" height="50%" />
 
 #### Prototyping a Mockup
 
