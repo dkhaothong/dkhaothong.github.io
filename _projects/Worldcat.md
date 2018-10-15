@@ -78,4 +78,4 @@ A more developed mockup was created to showcase an example of a visual style gui
 
 #### What I Learned
 
-Insert Sentence here.
+Although I didn't land the gig, I did learn how to design under new constraints and improved my ability to justify my design choices with stakeholders and product managers. As a designer just beginning my career, I also learned that design exercises are less about the final product, but rather about being able to showcase the reasoning behind what you designed.
