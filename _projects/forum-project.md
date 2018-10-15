@@ -26,7 +26,7 @@ featured_image: '/images/Project1.jpg'
 **_Due to a nondisclosure agreement, identifying characteristics and some parameters of the project have been left out._**
 
 
-I worked on a project where we tested a prototype of a redesigned community support forum. The client's primary goal was to update an outdated community support forum and test the user experience of specific forum features. They were also interested in how users navigated the information architecture of the new forum.  
+I worked on a project where we tested a prototype of a redesigned community support forum. The client's primary goal was to update an outdated community support forum and test the user experience of new forum features conceptualized by designers. In addition, they were also interested in how users navigated the information architecture of the new forum.  
 
 
 With a team of four other researchers, we worked with the client and delivered an insightful report with a variety of deliverables. My role involved coordinating respondents, creating research material, conducting usability test sessions, and analyzing the data into actionable insights.
@@ -40,11 +40,11 @@ With a team of four other researchers, we worked with the client and delivered a
 
 #### The Challenge
 
-Community forums are used to discover solutions and to allow open discussion of various topics with other users. In the tech community, these forums are very insightful for developers, designers, and IT professionals. Our challenge, was that a client had recently redesigned the user interface (UI) of their forum and wanted us to test features on prospective users.
+Community forums are used to discover solutions and to allow open discussion of various topics with other users. In the tech community, these forums are very insightful for developers, designers, and IT professionals that are looking to solve issues. Our challenge, was that a client had recently redesigned the user interface (UI) of their outdated forum and wanted us to test this new design on prospective users.
 
 #### The Solution
 
-We were given specific constraints to work with such as what features to test, what main insights stakerholders expected to attain, and an average deadline of the project. We strategized and tailored our strategy to suit these constraints. As we waited for the prototype to be finalized by our client, we began to solve the challenge by discovering the type of users that would use the community support forum website.
+To begin with, we were given specific constraints to work with such as what features to test, what main insights stakerholders expected to attain, and an average deadline of the project. As we waited for the prototype to be finalized by our client, we began to solve the challenge by discovering the type of users that would use the community support forum website.
 
 
 ---
@@ -55,7 +55,7 @@ We were given specific constraints to work with such as what features to test, w
 
 #### Understanding the Users
 
-We made personas of the type of users that would visit the forum so we could accurately recruit relavent respondents. We based our personas based off data from our stakeholder interviews and an analysis of the different forum topics. We divided the types of users into three specific cohorts. 
+We made personas of the type of users that would visit the forum so we could accurately recruit relavent respondents. We based our personas based off data from our stakeholder interviews and an analysis of the different forum topics. I was not apart of the stakeholder interview process, but played a role in the coordination of user recruitment. We divided the types of users into three specific cohorts.
 
 
 We recruited FPGA developers, software developers, and technical support seekers. We recruited five users for each cohort via UserInterviews. The users were screened to get a diverse sample of respondents with different ranges of professional experience and age.
@@ -63,15 +63,15 @@ We recruited FPGA developers, software developers, and technical support seekers
 
 #### Exploring the Competition 
 
- As researchers, we had an open discussion regarding what everyone defined "good UX" as for community support forums. I described how a great community support forum had a clear ranking system, chunked different information into relavent topics, and kept the visual design as minimal as possible. 
+ As researchers, we had an open discussion regarding what everyone defined "good UX" as for community support forums. I described how a great community support forum had a clear ranking system, chunked different information into relavent topics, and kept the visual design as minimal as possible. We believed having an open discussion could fill in the gaps of knowledge since we were still waiting on the prototype to be finalized by our client.
  
  
- We analyzed the design of popular community support forums (Reddit, Stack Overflow) so we could build our expertise and provide accurate reccommendations for our client. 
+ We analyzed the design of popular community support forums (Reddit, Stack Overflow). The main purpose of the competitive analysis was to orient ourselves in the product we were going to test and help us give a more effective evaluation of the forum after we tested it on users.
 
 
 #### Understanding the Flow
 
-Soon after, we recieved the prototype of the community support forum via InVision. We learned what features we had to test on the prototype and developed the user flow for these different features. Because we did not play a role in the design of the prototype, it was very significant for us to be familiarized with the user flow before we took any further steps. We used an Excel spreadsheet to list all of the various user flows for the different features the prototype allowed us to accomplish. 
+Soon after, we recieved the prototype of the community support forum via InVision. We learned what features we had to test on the prototype and developed the user flow for these different features. Because we did not play a role in the design of the prototype, it was very significant for us to be familiarized with the user flow before we took any further steps. We used an Excel spreadsheet to list all of the various user flows for the different features the prototype allowed us to accomplish on InVision.
 
 
 ![](/images/SupportForum4.png)
@@ -98,7 +98,7 @@ Before we could conduct any test sessions, we started by creating a discussion g
 ![](/images/SupportForum6.png)
 
 
-The discussion guide was essentially a list of behavioral questions that we could probe respondents with. The goal of the discussion guide was to help facilitate direct conversations with our respondents. We designed our discussion guide to have open-ended questions and likert-scale based questions after completing moderated tasks. The questions were strategically created to assess findability, template design, content relevancy, and any general UX improvements of the community support forum.
+The discussion guide was essentially a list of behavioral questions that we could probe respondents with. The goal of the discussion guide was to help us facilitate non-rigid conversations with our respondents. We designed our discussion guide to have open-ended qualitative questions and likert-scale quanitative based questions after completing moderated tasks. The questions were strategically created to assess findability, template design, content relevancy, and any general UX improvements of the community support forum.
 
 
 ---
@@ -112,7 +112,7 @@ The discussion guide was essentially a list of behavioral questions that we coul
 On testing day, I tested five respondents from the three different cohorts (FPGA, Software, Tech Support). Some sessions were moderated independently, while some sessions had a notetaker to assist. All sessions were recorded using a remote meeting software called GoToMeeting.
 
 
-I worked as a notetaker and a independent moderator. We discovered that overall, most respondents were able to generally complete the tasks we designed with success. However, some respondents also struggled with tasks related to finding specific types of information. For example, some respondents struggled with finding the registration process and navigating the different search features. 
+I worked as a notetaker and an independent moderator. We discovered that overall, most respondents were able to generally complete the tasks we designed with success. However, some respondents also struggled with tasks related to finding specific types of information. For example, some respondents struggled with finding the registration process and navigating the different search features. 
 
 #### What Clients Learned
 
