@@ -63,8 +63,10 @@ A more developed mockup was created to showcase an example of a visual style gui
 <img src="/images/WorldCat3.jpg">
 <br>
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="4">
+<img src="/images/HOMEPAGE FINAL.png"/>
 <img src="/images/WorldCat4.png"/>
+ <img src="/images/Opened SEARCH RESULT.png"/>
 <img src="/images/WorldCat5.png"/>
 </div>
 
