@@ -13,7 +13,7 @@ featured_image: '/images/Worldcat1.jpg'
 <br>
 
 * **For:** Mobile
-* **Role:** User Experience Design
+* **Role:** User Experience Designer
 * **Client:** Design Exercise for Undisclosed Startup
 * **Tools:** Sketch, Pen & Paper
 <br>
@@ -32,6 +32,8 @@ This was a solo design exercise to showcase my design process for a job intervie
 Library catalogs are used to find physical books, e-books online, and a variety of other resources. Every library has their own specific catalog system, so what if you were looking for a specific item and wanted to compare the availability of this book at different libraries? Introducing WorldCat, a union catalog that itemizes the collections of over 72,000 libraries to create a massive catalog of data. Despite solving a usability problem in library catalogs, WorldCat remains outdated by lacking a mobile version. My challenge, was to conceptualize how a mobile interface would look and bring the user experience of the desktop version to a mobile setting.
 
 <img src="/images/WorldCat3.png" alt="Worldcat3"/>
+<br>
+<p style="text-align:center;">The desktop website. </p>
 
 ---
 
@@ -41,7 +43,7 @@ Library catalogs are used to find physical books, e-books online, and a variety 
  
 #### Evaluating the Navigation 
 
-Since this was a design exercise, I knew that any research on users I could conduct in the early stages was quite limited. I began by creating a user flow of the desktop version of the website to orient myself. Specifically, I was interested in determining the flow of how users would navigate the website when searching for an item using the catalog. This was important because it would allow me to prioritize what information needed a strong call-to-action when designing the mobile interface.
+Since this was a design exercise, I knew that any research on users I could conduct in the early stages was quite limited. If I had the time, I would have created personas of users to keep in mind user pain points as I designed. I began by creating a user flow of the desktop version of the website to orient myself. Specifically, I was interested in determining the flow of how users would navigate the website when searching for an item using the catalog. This was important because it would allow me to prioritize what information needed a strong call-to-action when designing the mobile interface.
 
 ---
 
@@ -56,14 +58,15 @@ With the user flow completed, I began to create wireframes of the mobile interfa
 
 #### Prototyping a Mockup
 
-Insert sentence here.
+A more developed mockup was created to showcase an example of a visual style guide and bring the ideas of in my low-fidelity wireframes to life. 
 
 <img src="/images/WorldCat3.jpg">
+<br>
 
-
-<img src="/images/WorldCat4.png" width="50%" height="50%" />
-
-<img src="/images/WorldCat5.png" width="50%" height="50%" />
+<div class="gallery" data-columns="1">
+	<img src="/images/WorldCat4.png"/>
+<img src="/images/WorldCat5.png"/>
+</div>
 
 
 ---
