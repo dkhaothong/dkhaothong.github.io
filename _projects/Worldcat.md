@@ -24,12 +24,12 @@ featured_image: '/images/Worldcat1.jpg'
 ## OVERVIEW
 
 
-This was a solo design exercise for a job interview at an undisclosed startup. During this exercise, I was tasked with redesigning an existing interface by adding, updating, or removing features. I naturally gravitated towards redesigning a library catalog interface due to past frustrating experiences. Specifically, I sought to develop a library catalog interface that could be used globally by other libraries. 
+This was a solo design exercise to showcase my design process for a job interview at an undisclosed startup. During this exercise, I was tasked with redesigning any existing interface by adding, updating, or removing features. I naturally gravitated towards redesigning a library catalog interface due to a past frustrating experience. Specifically, I sought to redesign a library catalog interface that has been used globally by other libraries in the world.
 
 
 #### The Challenge
 
-Library catalogs are used to find physical books, e-books online, and a variety of other resources. Every library has their own specific catalog system, so what if you were looking for a specific item and wanted to compare the availability of this book at different libraries? Introducing WorldCat, a union catalog that itemizes the collections of over 72,000 libraries to create a massive catalog of data. Despite solving a usability problem in library catalogs, WorldCat remains outdated by lacking a mobile version. My challenge, was to conceptualize how a mobile interface would look and present a example highlighting the changes I made to the existing user interface.
+Library catalogs are used to find physical books, e-books online, and a variety of other resources. Every library has their own specific catalog system, so what if you were looking for a specific item and wanted to compare the availability of this book at different libraries? Introducing WorldCat, a union catalog that itemizes the collections of over 72,000 libraries to create a massive catalog of data. Despite solving a usability problem in library catalogs, WorldCat remains outdated by lacking a mobile version. My challenge, was to conceptualize how a mobile interface would look and bring the user experience of the desktop version to a mobile setting.
 
 
 ---
@@ -40,7 +40,7 @@ Library catalogs are used to find physical books, e-books online, and a variety 
  
 #### Evaluating the Navigation 
 
-I began by creating a user flow of the desktop version of the website. Specifically, I was interested in determining the flow of how users would navigate the website when searching for an item using the catalog. This was important because it would allow me to prioritize what information needed a strong call-to-action when designing the mobile interface.
+Since this was a design exercise, I knew that the research I could conduct in the early stages was quite limited. I began by creating a user flow of the desktop version of the website to orient myself. Specifically, I was interested in determining the flow of how users would navigate the website when searching for an item using the catalog. This was important because it would allow me to prioritize what information needed a strong call-to-action when designing the mobile interface.
 
 ---
 
