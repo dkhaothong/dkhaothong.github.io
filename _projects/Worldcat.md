@@ -58,14 +58,14 @@ With the user flow completed, I began to create wireframes of the mobile interfa
 
 #### Prototyping a Mockup
 
-A more developed mockup was created to showcase an example of a visual style guide and bring the ideas of in my low-fidelity wireframes to life. 
+A more developed mockup was created to showcase an example of a visual style guide that could be used and bring the ideas of in my low-fidelity wireframes to life. 
 
 <img src="/images/WorldCat3.jpg">
 <br>
 
-<div class="gallery" data-columns="1">
-<img src="/images/WorldCat4.png" width="40%" height="40% />
-<img src="/images/WorldCat5.png" width="40%" height="40% />
+<div class="gallery" data-columns="2">
+<img src="/images/WorldCat4.png"/>
+<img src="/images/WorldCat5.png"/>
 </div>
 
 
