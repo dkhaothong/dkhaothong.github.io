@@ -41,7 +41,7 @@ Library catalogs are used to find physical books, e-books online, and a variety 
  
 #### Evaluating the Navigation 
 
-Since this was a design exercise, I knew that the research I could conduct in the early stages was quite limited. I began by creating a user flow of the desktop version of the website to orient myself. Specifically, I was interested in determining the flow of how users would navigate the website when searching for an item using the catalog. This was important because it would allow me to prioritize what information needed a strong call-to-action when designing the mobile interface.
+Since this was a design exercise, I knew that any research on users I could conduct in the early stages was quite limited. I began by creating a user flow of the desktop version of the website to orient myself. Specifically, I was interested in determining the flow of how users would navigate the website when searching for an item using the catalog. This was important because it would allow me to prioritize what information needed a strong call-to-action when designing the mobile interface.
 
 ---
 
@@ -50,7 +50,7 @@ Since this was a design exercise, I knew that the research I could conduct in th
 
 #### Creating Wireframes
 
-With the user flow completed, I began to create wireframes of the mobile interface. Since this was a design exercise with a concrete deadline, I focused on developing wireframes of pages I felt needed the highest priority. These were the search page, the search results page, and the item page. I sketched these out via pen and paper to save some time.
+With the user flow completed, I began to create wireframes of the mobile interface. I focused on developing wireframes of pages that were critical to the task of searching for a item in the library catalog. These were the search page, the search results page, and the item page. I sketched these out via pen and paper.
 
 
 #### Prototyping a Mockup
