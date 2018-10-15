@@ -31,6 +31,7 @@ This was a solo design exercise to showcase my design process for a job intervie
 
 Library catalogs are used to find physical books, e-books online, and a variety of other resources. Every library has their own specific catalog system, so what if you were looking for a specific item and wanted to compare the availability of this book at different libraries? Introducing WorldCat, a union catalog that itemizes the collections of over 72,000 libraries to create a massive catalog of data. Despite solving a usability problem in library catalogs, WorldCat remains outdated by lacking a mobile version. My challenge, was to conceptualize how a mobile interface would look and bring the user experience of the desktop version to a mobile setting.
 
+<img src="/images/WorldCat3.png" alt="Worldcat3"/>
 
 ---
 
