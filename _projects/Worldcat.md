@@ -1,6 +1,6 @@
 ---
 title: 'Library Catalog'
-subtitle: 'User Experience Design'
+subtitle: 'User Experience Designer'
 date: 2018-06-30 00:00:00
 featured_image: '/images/Worldcat1.jpg'
 ---
@@ -64,8 +64,8 @@ A more developed mockup was created to showcase an example of a visual style gui
 <br>
 
 <div class="gallery" data-columns="1">
-	<img src="/images/WorldCat4.png"/>
-<img src="/images/WorldCat5.png"/>
+<img src="/images/WorldCat4.png" width="40%" height="40% />
+<img src="/images/WorldCat5.png" width="40%" height="40% />
 </div>
 
 
