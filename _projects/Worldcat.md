@@ -1,6 +1,6 @@
 ---
 title: 'Library Catalog'
-subtitle: 'User Experience Designer'
+subtitle: 'User Experience Design'
 date: 2018-06-30 00:00:00
 featured_image: '/images/Worldcat1.jpg'
 ---
@@ -12,9 +12,9 @@ featured_image: '/images/Worldcat1.jpg'
 # Creating a modern universal library catalog system.
 <br>
 
-* **For:** Mobile
+* **Project Type:** Design Exercise for Interview
 * **Role:** User Experience Designer
-* **Client:** Design Exercise for Undisclosed Startup
+* **Client:** Undisclosed Startup
 * **Tools:** Sketch, Pen & Paper
 <br>
 
