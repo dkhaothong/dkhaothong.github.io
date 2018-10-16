@@ -23,14 +23,9 @@ SF Hep B Free is a non profit in the Bay Area with an aim to improve the awarene
 
 
 ***
-<div class="gallery" data-columns="1">
-	<img src="/images/Medallurgy1.jpg">
-	<img src="/images/Medallurgy2.jpg">
-	<img src="/images/Medallurgy3.jpg">
-	<img src="/images/Medallurgy4.jpg">
-	<img src="/images/Medallurgy5.jpg">
-</div>
 
+<img src="/images/Medallurgy1.jpg">
+	
 
 # [Medallurgy UX](http://medallurgy.com/) 
 
