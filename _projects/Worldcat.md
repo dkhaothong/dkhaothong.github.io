@@ -45,7 +45,7 @@ Library catalogs are used to find physical books, e-books online, and a variety 
  
 #### Evaluating the Navigation 
 
-Since this was a design exercise, I knew that any research on users I could conduct in the early stages was quite limited. If I had the time, I would have created personas of users to keep in mind user pain points as I designed. I began by creating a user flow of the desktop version of the website to orient myself. Specifically, I was interested in determining the flow of how users would navigate the website when searching for an item using the catalog. This was important because it would allow me to prioritize what information needed a strong call-to-action when designing the mobile interface.
+Since this was a design exercise, I knew that any research on users I could conduct in the early stages was quite limited. If I had the time, I would have created personas of users to keep in mind user pain points as I designed. I began by creating a user flow of the desktop version of the website to orient myself. Specifically, I was interested in determining the flow of how users navigated the website when searching for an item using the catalog. This was important because it would allow me to prioritize what information needed a strong call-to-action when designing the mobile interface.
 
 <img src="/images/WorldCatFlow.png" alt="WorldCatFlow" width="70%" height="70%"/>
 
@@ -82,4 +82,4 @@ A more developed mockup was created to showcase an example of a visual style gui
 
 #### What I Learned
 
-Although I didn't land the gig, I did learn how to design under new constraints and improved my ability to justify my design choices with stakeholders and product managers. As a designer just beginning my career, I also learned that design exercises are less about the final product, but rather about being able to showcase the reasoning behind what you designed.
+Although I didn't land the gig, I did learn how to design under new constraints and improved my ability to justify my design choices with stakeholders and product managers. As a designer just beginning my career, I also learned that design exercises are less about the final product, but rather about being able to showcase the reasoning behind everything you designed.
