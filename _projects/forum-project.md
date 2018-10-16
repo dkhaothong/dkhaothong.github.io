@@ -12,8 +12,8 @@ featured_image: '/images/Project1.jpg'
 # Testing a redesign of an outdated community support forum.
 <br>
 
-* **For:** Desktop
-* **Role:** User Research
+* **Project Type:** Contract Project
+* **Role:** User Researcher
 * **Client:** Fortune 500 company via Medallurgy UX
 * **Tools:** InVision, GoToMeeting, Excel, Google Sheets
 <br>
