@@ -24,6 +24,8 @@ featured_image: '/images/Worldcat1.jpg'
 ## OVERVIEW
 
 
+#### The Context
+
 This was a solo design exercise to showcase my design process for a job interview at an undisclosed startup. During this exercise, I was tasked with redesigning any existing interface by adding, updating, or removing features. I naturally gravitated towards redesigning a library catalog interface due to a past frustrating experience. Specifically, I sought to redesign a library catalog interface that has been used globally by other libraries in the world.
 
 
