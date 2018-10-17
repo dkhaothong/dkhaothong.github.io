@@ -30,7 +30,7 @@ featured_image: '/images/Project1.jpg'
 I worked on a project where we tested a prototype of a redesigned community support forum. The client's primary goal was to update an outdated community support forum and test the user experience of new forum features conceptualized by designers. In addition, they were also interested in how users navigated the information architecture of the new forum.  
 
 
-With a team of four other researchers, we worked with the client and delivered an insightful report with a variety of deliverables. My role involved coordinating respondents, creating research material, conducting usability test sessions, and analyzing the data into actionable insights.
+With a team of three other researchers, we worked with the client and delivered an insightful report with a variety of deliverables. My role involved coordinating respondents, creating research material, conducting usability test sessions, and analyzing the data into actionable insights.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/SupportForum1.jpg">
