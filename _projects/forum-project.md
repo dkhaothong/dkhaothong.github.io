@@ -15,7 +15,7 @@ featured_image: '/images/Project1.jpg'
 * **Project Type:** Contract Project
 * **Role:** User Researcher
 * **Client:** Fortune 500 company via Medallurgy UX
-* **Tools:** InVision, GoToMeeting, Excel, Google Sheets
+* **Tools:** InVision, Recording Software, Excel, Google Sheets
 <br>
 
 ---
@@ -45,7 +45,7 @@ Community forums are used to discover solutions and to allow open discussion of 
 
 #### The Solution
 
-To begin with, we were given specific constraints to work with such as what features to test, what main insights stakerholders expected to attain, and an average deadline of the project. As we waited for the prototype to be finalized by our client, we began to solve the challenge by discovering the type of users that would use the community support forum website.
+To begin with, I was given specific constraints to work with by my agency such as what features to test, what main insights stakerholders expected to attain, and an average deadline of the project. As we waited for the prototype to be finalized by our client, we began to solve the challenge by discovering the type of users that would use the community support forum website.
 
 
 ---
@@ -56,7 +56,7 @@ To begin with, we were given specific constraints to work with such as what feat
 
 #### Understanding the Users
 
-We made personas of the type of users that would visit the forum so we could accurately recruit relavent respondents. We based our personas based off data from our stakeholder interviews and an analysis of the different forum topics. I was not apart of the stakeholder interview process, but played a role in the coordination of user recruitment. We divided the types of users into three specific cohorts.
+We made personas of the type of users that would visit the forum so we could accurately recruit relavent respondents. We based our personas based off data from our stakeholder interviews and an analysis of the different forum topics. I was not apart of the stakeholder interview process, but played a role in the coordination of confidential user information. We divided the types of users into three specific cohorts.
 
 
 We recruited FPGA developers, software developers, and technical support seekers. We recruited five users for each cohort via UserInterviews. The users were screened to get a diverse sample of respondents with different ranges of professional experience and age.
@@ -88,7 +88,7 @@ With the user flows completed and a greater understanding of the prototype, we d
 
 ##### Here is an example of one of the scenario-based tasks respondents had to accomplish:
 
-"You need information about MAX 10 power consumption. Using the prototype website, find the most appropriate forum for MAX10 power consumption information."
+"You need information about ___ power consumption. Using the prototype website, find the most appropriate forum for ___ power consumption information."
 
 
 #### Preparing the Lab
@@ -110,7 +110,7 @@ The discussion guide was essentially a list of behavioral questions that we coul
 #### What we Discovered
 
 
-On testing day, I tested five respondents from the three different cohorts (FPGA, Software, Tech Support). Some sessions were moderated independently, while some sessions had a notetaker to assist. All sessions were recorded using a remote meeting software called GoToMeeting.
+On testing day, I tested five respondents from the three different cohorts (FPGA, Software, Tech Support). Some sessions were moderated independently, while some sessions had a notetaker to assist. All sessions were recorded using a remote meeting software.
 
 
 I worked as a notetaker and an independent moderator. We discovered that overall, most respondents were able to generally complete the tasks we designed with success. However, some respondents also struggled with tasks related to finding specific types of information. For example, some respondents struggled with finding the registration process and navigating the different search features. 
