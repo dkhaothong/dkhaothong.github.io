@@ -23,7 +23,7 @@ featured_image: '/images/Project1.jpg'
 
 ## OVERVIEW
 
-**_Due to a nondisclosure agreement, identifying characteristics and some parameters of the project have been left out._**
+**_Due to a nondisclosure agreement, identifying characteristics and some deliverables of the project have been left out._**
 
 
 #### The Context
@@ -120,8 +120,6 @@ I worked as a notetaker and an independent moderator. We discovered that overall
 
 With the usability test being a succcess, we all spent time afterwards to discuss our collective experiences. After talking for hours with respondents, our heads were filled with information and we needed to synthesize the insights. A presentation was created highlighting the background of the study, our methodology, and key takeaways. The presentation was chunked into the different tasks and featured a summary of our notes from the discussion guide, a relavent quote from a respondent, and an actionable reccomendation.  
 
-
-![](/images/SupportForum2.png)
 
 ---
 
