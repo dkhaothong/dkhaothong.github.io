@@ -5,7 +5,7 @@ description: The about me section is a professional bio.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/Self.png)
+<img src="/images/Self.png" alt="Self"  width="60%" height="60%" />
 
 
 > **_“Optimism is a strategy for making a better future. Because unless you believe that the future can be better, you are unlikely to step up and take responsibility for making it so.”_**        — Noam Chomsky
