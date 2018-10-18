@@ -13,6 +13,7 @@ featured_image: '/images/Worldcat1.jpg'
 <br>
 
 * **Project Type:** Design Exercise for Interview
+* **Project Duration:** Three Days
 * **Role:** User Experience Designer
 * **Client:** Undisclosed Startup
 * **Tools:** Sketch, Pen & Paper
@@ -62,7 +63,7 @@ With the user flow completed, I began to create wireframes of the mobile interfa
 
 #### Prototyping a Mockup
 
-A more developed mockup was created to showcase an example of a visual style guide that could be used and bring the ideas of in my low-fidelity wireframes to life. 
+A more developed mockup was created to showcase an example of a visual style guide that could be used and bring the ideas of in my low-fidelity wireframes to life. Visual design was created with Gestalt psychology principles in mind since there was minimal research conducted to evaluate the wireframes I created.
 
 <img src="/images/WorldCat3.jpg">
 <br>
@@ -82,4 +83,4 @@ A more developed mockup was created to showcase an example of a visual style gui
 
 #### What I Learned
 
-Although I didn't land the gig, I did learn how to design under new constraints and improved my ability to justify my design choices with stakeholders and product managers. As a designer just beginning my career, I also learned that design exercises are less about the final product, but rather about being able to showcase the reasoning behind everything you designed.
+Although I didn't land the gig, I did learn how to design under new constraints and improved my ability to justify my design choices with stakeholders and product managers. As a designer just beginning my career, I also learned that design exercises are less about the final product, but rather about being able to showcase the reasoning behind every design choice you committed.
