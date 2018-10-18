@@ -13,6 +13,7 @@ featured_image: '/images/Project1.jpg'
 <br>
 
 * **Project Type:** Contract Project
+* **Project Duration:** Three Weeks
 * **Role:** User Researcher
 * **Client:** Fortune 500 company via Medallurgy UX
 * **Tools:** InVision, Recording Software, Excel, Google Sheets
@@ -64,10 +65,10 @@ We recruited FPGA developers, software developers, and technical support seekers
 
 #### Exploring the Competition 
 
- As researchers, we had an open discussion regarding what everyone defined "good UX" as for community support forums. I described how a great community support forum had a clear ranking system, chunked different information into relavent topics, and kept the visual design as minimal as possible. We believed having an open discussion could fill in the gaps of knowledge since we were still waiting on the prototype to be finalized by our client.
+As researchers, we had an open discussion regarding what everyone defined as "good UX" for a community support forum. I described how a well-designed community support forum had a clear ranking system to verify legit answers, chunked different information into relavent topics, and had a defined hierarchical visual design. We believed having an open discussion could fill in our gaps of knowledge while we were still waiting on the prototype to be finalized by our client.
  
  
- We analyzed the design of popular community support forums (Reddit, Stack Overflow). The main purpose of the competitive analysis was to orient ourselves in the product we were going to test and help us give a more effective evaluation of the forum after we tested it on users.
+We analyzed the design of popular community support forums (Reddit, Stack Overflow). The main purpose of the competitive analysis was to orient ourselves in the product we were going to test and help us give a more effective evaluation of the forum after we tested it on users.
 
 
 #### Understanding the Flow
@@ -113,7 +114,8 @@ The discussion guide was essentially a list of behavioral questions that we coul
 On testing day, I tested five respondents from the three different cohorts (FPGA, Software, Tech Support). Some sessions were moderated independently, while some sessions had a notetaker to assist. All sessions were recorded using a remote meeting software.
 
 
-I worked as a notetaker and an independent moderator. We discovered that overall, most respondents were able to generally complete the tasks we designed with success. However, some respondents also struggled with tasks related to finding specific types of information. For example, some respondents struggled with finding the registration process and navigating the different search features. 
+I worked as a notetaker and an independent moderator. I experienced minor hiccups such as audio issues, connection issues, and a difficult respondent. However, we discovered that overall, most respondents were able to generally complete the tasks we designed with success using the prototype website. However, some respondents also struggled with tasks related to finding specific types of information. For example, some respondents struggled with finding the registration process and navigating the different search features. 
+
 
 #### What Clients Learned
 
@@ -129,4 +131,4 @@ With the usability test being a succcess, we all spent time afterwards to discus
 #### What I Learned
 
 
-Overall, I learned that remote user research studies are a great way to gain insights from users quickly. The duration of the project took roughly three weeks and our client got an in-depth perspective on what features to prioritize for their product. In addition, I also discovered how difficult it was to independently moderate a usability session with no partner. Having to take notes, moderate the respondent, and have a well-flowing conversation at the same time proved to be difficult to juggle. For the future, I would try to conduct usability test sessions with another partner (if constraints allow me to) and be prepared to iterate on the spot to fix errors that will occur from conducting remote user research.
+Overall, I learned that remote user research studies are a great way to gain insights from users quickly for a developed product. The duration of the project took roughly three weeks and our client gathered light actionable insights on what features to prioritize for their product. In addition, I also discovered how difficult it was to independently moderate a usability session with no partner. Having to take notes, moderate the respondent, and have a well-flowing conversation at the same time proved to be difficult to juggle. For the future, I would try to conduct usability test sessions with another partner (if constraints allow me to) and be prepared to iterate on the spot to fix errors that will occur from conducting remote user research.
