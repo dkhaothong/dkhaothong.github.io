@@ -27,7 +27,7 @@ featured_image: '/images/Project1.jpg'
 
 
 #### The Context
-I worked on a project where we tested a prototype of a redesigned community support forum. The client's primary goal was to update an outdated community support forum and test the user experience of new forum features conceptualized by designers. In addition, they were also interested in how users navigated the information architecture of the new forum.  
+Community forums are used to discover solutions and to allow open discussion of various topics with other users. In the tech community, these forums are very insightful for developers, designers, and IT professionals that are looking to solve issues.I worked on a project where we tested a prototype of a redesigned community support forum. 
 
 
 With a team of three other researchers, we worked with the client and delivered an insightful report with a variety of deliverables. My role involved coordinating respondents, creating research material, conducting usability test sessions, and analyzing the data into actionable insights.
@@ -41,7 +41,7 @@ With a team of three other researchers, we worked with the client and delivered 
 
 #### The Challenge
 
-Community forums are used to discover solutions and to allow open discussion of various topics with other users. In the tech community, these forums are very insightful for developers, designers, and IT professionals that are looking to solve issues. Our challenge, was that a client had recently redesigned the user interface (UI) of their outdated forum and wanted us to test this new design on prospective users.
+Our challenge, was that a client had recently redesigned the user interface (UI) of their forum and wanted us to test this new design on prospective users. The client's primary goal was to test the user experience of new conceptual forum functions. In addition, they were also interested in how users navigated the information architecture of the new forum.
 
 #### The Solution
 
