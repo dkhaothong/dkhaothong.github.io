@@ -27,7 +27,7 @@ featured_image: '/images/Project1.jpg'
 
 
 #### The Context
-Community forums are used to discover solutions and to allow open discussion of various topics with other users. In the tech community, these forums are very insightful for developers, designers, and IT professionals that are looking to solve issues.I worked on a project where we tested a prototype of a redesigned community support forum. 
+Community forums are used to discover solutions and to allow open discussion of various topics with other users. In the tech community, these forums are very insightful for developers, designers, and IT professionals that are looking to solve technical issues. I worked on a project where we tested a prototype of a redesigned community support forum. 
 
 
 With a team of three other researchers, we worked with the client and delivered an insightful report with a variety of deliverables. My role involved coordinating respondents, creating research material, conducting usability test sessions, and analyzing the data into actionable insights.
