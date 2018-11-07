@@ -57,7 +57,7 @@ To begin with, I was given specific constraints to work with by my agency such a
 
 #### Understanding the Users
 
-We made personas of the type of users that would visit the forum so we could accurately recruit relavent respondents. We based our personas based off data from our stakeholder interviews and an analysis of the different forum topics. I was not apart of the stakeholder interview process, but played a role in the coordination of confidential user information. We divided the types of users into three specific cohorts.
+We made profiles of the type of users that would visit the forum so we could accurately recruit relavent respondents. We based our profiles based off data from stakeholder interviews and an analysis of the different forum topics. I was not apart of the stakeholder interview process, but played a role in the coordination of confidential user information. We divided the types of users into three specific cohorts.
 
 
 We recruited FPGA developers, software developers, and technical support seekers. We recruited five users for each cohort via UserInterviews. The users were screened to get a diverse sample of respondents with different ranges of professional experience and age.
