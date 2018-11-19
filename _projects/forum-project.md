@@ -13,7 +13,7 @@ featured_image: '/images/Project1.jpg'
 <br>
 
 * **Project Type:** Contract Project
-* **Project Duration:** Three Weeks
+* **Project Duration:** Two Weeks
 * **Role:** User Researcher
 * **Client:** Fortune 500 company via Medallurgy UX
 * **Tools:** InVision, Recording Software, Excel, Google Sheets
