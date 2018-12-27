@@ -32,7 +32,7 @@ This was a solo design exercise to showcase my design process for a job intervie
 
 #### The Challenge
 
-Library catalogs are used to find physical books, e-books online, and a variety of other resources. Every library has their own specific catalog system, so what if you were looking for a specific item and wanted to compare the availability of this book at different libraries? Introducing WorldCat, a union catalog that itemizes the collections of over 72,000 libraries to create a massive catalog of data. Despite solving a usability problem in library catalogs, WorldCat remains outdated by lacking a mobile version. My challenge, was to conceptualize how a mobile interface would look and bring the user experience of the desktop version to a mobile setting.
+Library catalog interfaces are used to find physical books, articles, and a variety of other resources online. Every library has their own unique catalog system, but what if you were looking for a specific item and wanted to compare the availability of this item across different libraries? I'd suggest using WorldCat, a union catalog that itemizes the collections of over 72,000 libraries to create a massive catalog of data. Despite solving my usability problem of being able to compare materials across multiple library catalogs, WorldCat remains outdated by lacking a mobile version. My challenge, was to conceptualize how a mobile interface would look and bring the user experience of the desktop version to a mobile setting.
 
 <img src="/images/WorldCat3.png" alt="Worldcat3"/>
 <br>
@@ -46,7 +46,7 @@ Library catalogs are used to find physical books, e-books online, and a variety 
  
 #### Evaluating the Navigation 
 
-Since this was a design exercise, I knew that any research on users I could conduct in the early stages was quite limited. If I had the time, I would have created personas of users to keep in mind user pain points as I designed. I began by creating a user flow of the desktop version of the website to orient myself. Specifically, I was interested in determining the flow of how users navigated the website when searching for an item using the catalog. This was important because it would allow me to prioritize what information needed a strong call-to-action when designing the mobile interface.
+Since this was a design exercise, I knew that any research on users I could conduct in the early stages was quite limited. Therefore, I began by creating a user flow of the desktop version of the website to orient myself. Specifically, I was interested in determining the flow of how users navigated the website when searching for an item using the catalog. How many steps did this take? Was it easy or difficult to get to the goal state? What visually stood out on each page to get me towards the next step(s)? All these factors were important because they would allow me to prioritize what information needed a strong call-to-action when designing the mobile interface.
 
 <img src="/images/WorldCatFlow.png" alt="WorldCatFlow" width="70%" height="70%"/>
 
@@ -57,13 +57,13 @@ Since this was a design exercise, I knew that any research on users I could cond
 
 #### Creating Wireframes
 
-With the user flow completed, I began to create wireframes of the mobile interface. I focused on developing wireframes of pages that were critical to the task of searching for a item in the library catalog. These were the search page, the search results page, and the item page. I sketched these out via pen and paper.
+With the user flow completed, I began to create wireframes of the mobile interface. I focused on developing wireframes of the pages that were critical to the task of searching for a item in the library catalog. These were the search page, the search results page, and the item page. I sketched these out via pen and paper.
 
 <img src="/images/WorldCatWireframe.jpeg" alt="WorldCatWireframe"  width="50%" height="50%" />
 
 #### Prototyping a Mockup
 
-A more developed mockup was created to showcase an example of a visual style guide that could be used and bring the ideas of in my low-fidelity wireframes to life. Visual design was created with Gestalt psychology principles in mind since there was minimal research conducted to evaluate the wireframes I created.
+A more developed mockup was created to showcase an example of a visual style guide that could be used and bring the ideas of my low-fidelity wireframes to life.
 
 <img src="/images/WorldCat3.jpg">
 <br>
@@ -83,4 +83,4 @@ A more developed mockup was created to showcase an example of a visual style gui
 
 #### What I Learned
 
-Although I didn't land the gig, I did learn how to design under new constraints and improved my ability to justify my design choices with stakeholders and product managers. As a designer just beginning my career, I also learned that design exercises are less about the final product, but rather about being able to showcase the reasoning behind every design choice you committed.
+Although I didn't land the gig, I did learn how to design under new constraints and improved my ability to justify my design choices with stakeholders and product managers. As a designer just beginning my career, I also learned that design exercises are less about the final product, but rather about being able to showcase the reasoning behind every design choice you committed. For any future interviews, I plan to conduct small guerilla usability testing to validate my designs prior to an in-person interview and making the design exercise a more collaborative process with the hiring team.
