@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Derek Khaothong is a user experience designer based in the Bay Area.
+subtitle: Derek Khaothong is an user experience specialist based in the SF Bay Area.
 description: The about me section is a professional bio.
 featured_image: /images/demo/demo-landscape.jpg
 ---
@@ -21,7 +21,7 @@ I was born and raised in the Bay Area, where I currently reside today. I have a 
 I explore the fields of visual design, technology, and behavioral science to apply interdisciplinary perspectives when I design experiences. Beyond approaching design from a human-centered perspective, I also take design inspiration from things you see everyday like the color palettes of different sneakers, album artwork on glossy vinyl covers, and the organization of grocery stores.
 
 
-I'm currently at [Medallurgy UX](http://medallurgy.com) doing user research and volunteer for [SF Hep B Free](https://www.sfhepbfree.org/) as a web designer. In the past, I've worked for [UCLA's Computational Lab](http://cvl.psych.ucla.edu), [UCLA Radio](https://uclaradio.com), and [Inneract Project](https://inneractproject.org). 
+I'm currently at [Medallurgy UX](http://medallurgy.com) on a contract duration doing user research and volunteer for [SF Hep B Free](https://www.sfhepbfree.org/) as a web designer. In the past, I've worked for [UCLA's Computational Lab](http://cvl.psych.ucla.edu), [UCLA Radio](https://uclaradio.com), and [Inneract Project](https://inneractproject.org). 
 
 
 Outside of design, you can find me noodling on my guitar, cooking up tasty meals in the kitchen with others, and hiking in the Bay Area.
