@@ -14,7 +14,7 @@ featured_image: '/images/Project2.png'
 #### OVERVIEW
 
 
-Yuki Sushi .  
+Yuki Sushi is a Japanese restaurant with two locations in Santa Clara and Willow Glen. I worked on developing the current visual design of the website using CSS, HTML5, and Wordpress.  
 
 <br />
 <div style="text-align:center;">
