@@ -5,6 +5,25 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/Project2.png'
 ---
 
+<img src="/images/YUKI1.png">
+	
+
+# [Yuki Sushi](http://yukisushi.com/) 
+
+ 
+#### OVERVIEW
+
+
+Yuki Sushi .  
+
+<br />
+<div style="text-align:center;">
+    <a href="http://yukisushi.com/" class="button button--large">View Website</a>
+</div>
+
+***
+
+
 ![](/images/SFHep1.png)
 
 
@@ -22,23 +41,6 @@ SF Hep B Free is a non profit in the Bay Area with an aim to improve the awarene
 </div>
 
 
-***
-
-<img src="/images/Medallurgy1.jpg">
-	
-
-# [Medallurgy UX](http://medallurgy.com/) 
-
- 
-#### OVERVIEW
-
-
-I led and developed a desktop wireframe for a user research agency website. The design was developed through a competitive analysis of other agency websites and an analysis of the existing website. There was a strong developmental focus on the information architecture and content to improve credibility for prospective clients that would visit the website. The wireframe was built on Sketch and iterated through remote meetings.  
-
-<br />
-<div style="text-align:center;">
-    <a href="http://medallurgy.com" class="button button--large">View Website</a>
-</div>
 ***
 
 
