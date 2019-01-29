@@ -9,7 +9,7 @@ featured_image: '/images/Project1.jpg'
 
 ---
 
-# Testing a redesign of an outdated community support forum.
+# Validating a redesign of an outdated community support forum.
 <br>
 
 * **Project Type:** Contract Project
@@ -27,11 +27,14 @@ featured_image: '/images/Project1.jpg'
 **_Due to a nondisclosure agreement, identifying characteristics and some deliverables of the project have been left out._**
 
 
-#### The Context
-Community forums are used to discover solutions and to allow open discussion of various topics with other users. In the tech community, these forums are very insightful for developers, designers, and IT professionals that are looking to solve technical issues. I worked on a project where we tested a prototype of a redesigned community support forum. 
+#### The Problem 
+Community forums are used to discover solutions and to allow open discussion of various topics with other users. In the tech community, these forums are very insightful for developers, designers, and IT professionals that are looking to solve technical issues.
 
 
-With a team of three other researchers, we worked with the client and delivered an insightful report with a variety of deliverables. My role involved coordinating respondents, creating research material, conducting usability test sessions, and analyzing the data into actionable insights.
+Our problem was that the client had done a massive overhaul on the desktop user interface and functionality of their forum.
+
+
+With a team of three other researchers, we worked with the client to test and validate their new design. My role within the team involved coordinating respondents, creating research material, conducting usability test sessions, and analyzing the data into actionable insights.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/SupportForum1.jpg">
@@ -40,13 +43,9 @@ With a team of three other researchers, we worked with the client and delivered 
 <p style="text-align: center;"> The original design vs. the new design of the forum.</p>
 
 
-#### The Challenge
-
-Our challenge, was that a client had recently redesigned the user interface (UI) of their forum and wanted us to test this new design on prospective users. The client's primary goal was to test the user experience of new conceptual forum functions. In addition, they were also interested in how users navigated the information architecture of the new forum.
-
 #### The Solution
 
-To begin with, I was given specific constraints to work with by my agency such as what features to test, what main insights stakerholders expected to attain, and an average deadline of the project. As we waited for the prototype to be finalized by our client, we began to solve the challenge by discovering the type of users that would use the community support forum website.
+To begin with, I was given specific constraints to work with by senior researchers such as what forum features to test, what main insights stakeholders expected to attain, and the time frame of the project. As we waited for the prototype to be finalized by our client, we began to solve the problem by discovering the type of users that would use the community support forum website.
 
 
 ---
