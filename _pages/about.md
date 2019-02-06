@@ -21,7 +21,7 @@ I was born and raised in the Bay Area, where I currently reside today. I studied
 I explore the fields of visual design, technology, and behavioral science to apply interdisciplinary perspectives when I design experiences. I take pride in learning about others' stories and asking "why?" to be more insight-driven.
 
 
-I'm currently at [Medallurgy UX](http://medallurgy.com) on contract durations doing user research and volunteer for [Inneract Project](https://inneractproject.org). In the past, I've worked for [UCLA's Computational Lab](http://cvl.psych.ucla.edu) and [UCLA Radio](https://uclaradio.com).
+I'm currently at [Medallurgy UX](http://medallurgy.com) on a project-based basis doing user research and volunteer for [Inneract Project](https://inneractproject.org). In the past, I've worked for [UCLA's Computational Lab](http://cvl.psych.ucla.edu) and [UCLA Radio](https://uclaradio.com). I'm looking for full-time opportunities in user experience design or research.
 
 
 Outside of design, you can find me noodling on my guitar, cooking up tasty meals in the kitchen with others, and hiking in the Bay Area.
@@ -31,7 +31,7 @@ Outside of design, you can find me noodling on my guitar, cooking up tasty meals
 
 # Let's Chat.
 
-I'd love to talk: design in tech, opportunities to collaborate, or my experiences as a first-generation college graduate. 
+I'd love to talk: opportunities to collaborate, my experiences as a first-generation college graduate, or design research.
 
 
 Shoot me an e-mail and we can work something out!  
