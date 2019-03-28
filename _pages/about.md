@@ -7,6 +7,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 <img src="/images/Self.png" alt="Self" width="50%" height="50%" />
 img {
+<img src="/images/Self.png" alt="Self" width="50%" height="50%" />
   border-radius: 50%;
 }
 
