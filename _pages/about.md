@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Derek Khaothong is an user experience specialist based in the SF Bay Area.
+subtitle: Derek Khaothong is a junior user experience specialist based in the SF Bay Area.
 description: The about me section is a professional bio.
 featured_image: /images/demo/demo-landscape.jpg
 ---
@@ -8,7 +8,8 @@ featured_image: /images/demo/demo-landscape.jpg
 <img src="/images/Self.png" alt="Self"  width="75%" height="75%" />
 
 
-> **_“If it ain't broke, don't fix it.”_**        
+<p style="text-align:center">> **_“If it ain't broke, don't fix it.”_** </p>
+       
 
 ---
 
