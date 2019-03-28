@@ -8,7 +8,7 @@ featured_image: /images/demo/demo-landscape.jpg
 <img src="/images/Self.png" alt="Self"  width="75%" height="75%" />
 
 
-> **_“Optimism is a strategy for making a better future. Because unless you believe that the future can be better, you are unlikely to step up and take responsibility for making it so.”_**        — Noam Chomsky
+> **_“If it ain't broke, don't fix it.”_**        
 
 ---
 
