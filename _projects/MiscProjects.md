@@ -33,7 +33,7 @@ Yuki Sushi is a Japanese restaurant with two locations in Santa Clara and Willow
 #### OVERVIEW
 
 
-SF Hep B Free is a non profit in the Bay Area with an aim to improve the awareness of Hepatitis B in the Asian Pacific Islander community (they are most prone to Hep B). I currently volunteer at SF Hep B Free as a web designer to improve the visual design of their website to make information scannable and keep content updated with accurate information.
+SF Hep B Free is a non profit in the Bay Area with an aim to improve the awareness of Hepatitis B in the Asian Pacific Islander community (they are most prone to Hep B). I volunteered as a web designer to improve the scannability and update content.
 
 <br />
 <div style="text-align:center;">
@@ -52,7 +52,7 @@ SF Hep B Free is a non profit in the Bay Area with an aim to improve the awarene
 #### OVERVIEW
 
 
-Masa Ramen is a restaurant located in San Jose, CA. My client wanted to create a user-friendly website where users could view the menu online. The website was built without a template using Wix’s drag and drop ability (similar to Sketch, but more limited). 
+Masa Ramen is a restaurant located in San Jose, CA. My client wanted to create a user-friendly website where users could view the menu online. The website was built without a template using Wix’s drag and drop ability. 
 
 <br />
 <div style="text-align:center;">
