@@ -9,14 +9,14 @@ featured_image: '/images/Project1.jpg'
 
 ---
 
-# Validating a redesign of an outdated community support forum.
+# Designing and conducting research for the development of a partner marketplace.
 <br>
 
 * **Project Type:** Contract Project
-* **Project Duration:** Two Weeks
+* **Project Duration:** Three Months
 * **Role:** User Researcher
 * **Client:** Fortune 500 company via Medallurgy UX
-* **Tools:** InVision, Recording Software, Excel, Google Sheets
+* **Tools:** InVision, Recording Software, Excel, Google Sheets, Transcription Tool
 <br>
 
 ---
@@ -24,7 +24,7 @@ featured_image: '/images/Project1.jpg'
 
 ## OVERVIEW
 
-**_Due to a nondisclosure agreement, identifying characteristics and some deliverables of the project have been left out._**
+**_Due to a nondisclosure agreement, many details of the project have been left out. Contact me for further discussion._**
 
 
 #### The Problem 
