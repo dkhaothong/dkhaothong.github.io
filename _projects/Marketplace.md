@@ -2,10 +2,10 @@
 title: 'Partner Marketplace'
 subtitle: 'User Research'
 date: 2018-06-30 00:00:00
-featured_image: '/images/Project1.jpg'
+featured_image: '/images/Marketplace.png'
 ---
 
-![](/images/Project1.jpg)
+![](/images/Marketplace.png)
 
 ---
 
