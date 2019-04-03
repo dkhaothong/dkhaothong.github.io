@@ -1,5 +1,5 @@
 ---
-title: 'Forum Project'
+title: 'Partner Marketplace'
 subtitle: 'User Research'
 date: 2018-06-30 00:00:00
 featured_image: '/images/Project1.jpg'
