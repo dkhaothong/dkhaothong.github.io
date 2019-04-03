@@ -9,7 +9,7 @@ featured_image: '/images/Marketplace.png'
 
 ---
 
-# Designing and conducting research for the development of a partner marketplace.
+# Conducting research for the development of a partner marketplace.
 <br>
 
 * **Project Type:** Contract Project
