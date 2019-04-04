@@ -1,6 +1,6 @@
 ---
 title: 'Community Support Forum'
-subtitle: 'User Research'
+subtitle: 'User Research | Project Deep Dive'
 date: 2018-06-30 00:00:00
 featured_image: '/images/Project1.jpg'
 ---
