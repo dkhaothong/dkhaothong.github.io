@@ -1,6 +1,6 @@
 ---
 title: 'Partner Marketplace'
-subtitle: 'User Research | Project Brief'
+subtitle: 'UX Research | Project Brief'
 date: 2018-06-30 00:00:00
 featured_image: '/images/Marketplace.png'
 ---
