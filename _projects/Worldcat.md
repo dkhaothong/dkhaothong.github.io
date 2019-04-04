@@ -1,6 +1,6 @@
 ---
 title: 'Library Catalog'
-subtitle: 'User Experience Design'
+subtitle: 'UX Design | Design Challenge'
 date: 2018-06-30 00:00:00
 featured_image: '/images/Worldcat1.jpg'
 ---
