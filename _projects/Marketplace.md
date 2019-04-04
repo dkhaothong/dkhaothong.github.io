@@ -47,4 +47,5 @@ The partner marketplace was designed in different batches of fidelity. We played
 #### What I Learned
 
 * **Document all of your info :** Organizing ideas from brainstorming sessions and meeting notes allowed me to revisit ideas that were conceived from earlier parts of the process but forgotten. They may prove to be viable solutions in the future. 
+* **If the question can drive a change to the product, ask the question :** Whether it's during a usability test session with a respondent or a meeting with a stakeholder, these spontaneous questions can have enormous value into further understanding the "why?".
 
