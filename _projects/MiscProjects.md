@@ -1,6 +1,6 @@
 ---
 title: 'Miscellaneous Projects'
-subtitle: 'Web Design | Visual Design'
+subtitle: 'Web Design | Project Briefs'
 date: 2018-06-30 00:00:00
 featured_image: '/images/Project2.png'
 ---
