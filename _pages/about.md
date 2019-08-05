@@ -19,7 +19,7 @@ I was born and raised in the Bay Area, where I currently reside today. I studied
 I explore the fields of visual design, technology, and behavioral science to apply an interdisciplinary perspective when I design and research user experiences. I take pride in learning about others' stories and being a lifelong learner.
 
 
-I’m currently a junior product manager in the EdTech space at [TCI (Teachers' Curriculum Institute)] (https://www.teachtci.com/) where I'm working on innovative, award-winning software to deliver an impactful curriculum to teachers and students across the nation.  My biggest interest within tech currently is learning how to seamlessly integrate software and hardware in a multi-screen experience, at scale. Right now, I'm reading [Conversational Design by Erika Hall](https://abookapart.com/products/conversational-design).
+I’m currently a junior product manager in the EdTech space at [Teachers' Curriculum Institute] (https://www.teachtci.com/) where I'm working on innovative, award-winning software to deliver an impactful curriculum to teachers and students across the nation.  My biggest interest within tech currently is learning how to seamlessly integrate software and hardware in a multi-screen experience, at scale. Right now, I'm reading [Conversational Design by Erika Hall](https://abookapart.com/products/conversational-design).
 
 
 Outside of tech, you can find me noodling on my guitar, cooking up tasty meals in the kitchen with others, and hiking in the Bay Area. 
