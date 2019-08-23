@@ -4,11 +4,14 @@ subtitle: Derek Khaothong is a junior product manager based in the SF Bay Area.
 description: The about me section is a professional bio.
 featured_image: /images/demo/demo-landscape.jpg
 ---
+<style>
 img {
   border-radius: 25%;
+}
+</style>
 
 <img src="/images/Self.jpeg" alt="Self" width="30%" height="30%" />
-}
+
 
 ---
 
