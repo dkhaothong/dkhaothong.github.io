@@ -5,7 +5,7 @@ description: The about me section is a professional bio.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-<img src="/images/Self.jpeg" alt="Self" width="50%" height="50%" />
+<img src="/images/Self.jpeg" alt="Self" width="40%" height="40%" />
 
 
 ---
