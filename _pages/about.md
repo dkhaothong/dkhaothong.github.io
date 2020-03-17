@@ -6,7 +6,7 @@ featured_image: /images/demo/demo-landscape.jpg
 ---
 
 
-<img src="/images/Self.jpeg" alt="Self" width="30%" height="30%" />
+<img src="/images/IMG_0407.jpeg" alt="Self" width="30%" height="30%" />
 
 
 ---
