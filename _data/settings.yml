@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Derek Khaothong
-  favicon_image: Kong_Family.png
+  favicon_image: /images/Kong_Family.png
 
 header_settings:
   logo_image: /images/Derek..png
